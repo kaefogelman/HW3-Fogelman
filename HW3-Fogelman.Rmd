@@ -1,0 +1,214 @@
+---
+title: "HW3-Fogelman"
+output: html_document
+---
+
+##Kaelyn Fogelman 
+###Homework 3 
+###Due Date: 16 Oct 2020
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+Load packages necessary for the assignment.
+
+```{r packages, include = TRUE, warning = FALSE, message = FALSE}
+library(tidyverse)
+library(lubridate)
+```
+
+##Covid Data 
+
+Load and check dataset
+
+```{r load data, include=TRUE}
+covid <- read.csv("covid.csv", row.names = 1)
+# Check data
+str(covid)
+```
+<br><br>
+1. Correctly format the dates in “Date.of.birth”, “First.day.of.symptoms”, “Date.of.outcome” and “Date.of.diagnosis”.
+```{r format dates, include=TRUE}
+covid$Date.of.birth <- 
+  as.Date(parse_date_time(covid$Date.of.birth, "mdy"))
+
+covid$First.day.of.symptoms <- 
+  as.Date(parse_date_time(covid$First.day.of.symptoms, "mdy"))
+
+covid$Date.of.outcome <- 
+  as.Date(parse_date_time(covid$Date.of.outcome, "mdy"))
+
+covid$Date.of.diagnosis <- 
+  as.Date(parse_date_time(covid$Date.of.diagnosis, "mdy"))
+```
+<br><br>
+2. Format “Hospitalization.type”, “Symptoms” and “Outcome” as factors and “Epidemiological.link…Notes” as character.
+
+```{r format factor/character, include=TRUE}
+covid$Hospitalization.type <- as.factor(covid$Hospitalization.type)
+
+covid$Symptoms <- as.factor(covid$Symptoms)
+
+covid$Outcome <- as.factor(covid$Outcome)
+
+covid$Epidemiological.link...Notes <- as.character(covid$Epidemiological.link...Notes)
+```
+<br><br>
+3. Create a three-dimensional table reporting the three factors from the previous question. Hint: use the function table() with the variables of interest.
+
+```{r table, include = TRUE}
+table1 <- table(covid[c("Hospitalization.type", "Symptoms", "Outcome")])
+table1
+```
+<br><br>
+4. Using a table object created in the previous question, subset it in order to create the following table: 
+
+```{r subset table, include = TRUE}
+table2 <- table1[1:2,2,c(2:3)]
+table2
+```
+<br><br>
+5. Order the data based on the date of diagnosis (from first to most recent).
+
+```{r diagnosis order, include = TRUE}
+covid_diagnosis.date <- arrange(covid, Date.of.diagnosis)
+head(covid_diagnosis.date)
+```
+
+6. Add a column that reports whether or not a case was asymptomatic AND in home isolation. Name the observation “Home_Asymptomatic” if the conditions apply and “Non_Home_Asymptomatic” if not and then produce a bar plot of this new variable.
+
+```{r new data, include = TRUE}
+covid <- covid %>%
+  mutate(Asymptomatic_AND_Home_Isolation = 
+           ifelse(covid$Symptoms == "Asymptomatic" & 
+                  covid$Hospitalization.type == "Home isolation", 
+                  "Home_Asymptomatic", "Non_Home_Asymptomatic"))
+counts <- table(covid$Asymptomatic_AND_Home_Isolation)
+barplot(counts, main="Asymptomatic_AND_Home_Isolation",
+   xlab="Symptom status and Isolation status")
+```
+<br><br>
+7. Count the number of cases of people born after 1981 and that have healed.
+```{r 1981healed, include = TRUE}
+covid %>%
+  filter(Date.of.birth > ymd(19810101) & Outcome == "Healed") %>%
+  count()
+```
+<center> __158 people that are were born after 1981 have healed.__ </center>
+<br><br>
+
+8. Count the number of cases that are asymptomatic OR in home isolation (but not both) AND were born before 1982.
+
+```{r symptom&hospitalization.type, include = TRUE}
+covid %>%
+  filter(Symptoms == "Asymptomatic" | Hospitalization.type == "Home isolation"
+         & Date.of.birth > ymd(19820101)) %>%
+  count()
+```
+<center> __353 people born after 1982 are asymptomatic or in home isolation.__ </center> <br><br>
+
+9. Create a new dataset including only the rows where “Epidemiological.link…Notes” includes the words “contact” OR “symptom” (or both). Hint: you can use the grep() function and tolower().
+
+```{r dataset, inclue = TRUE, warning = FALSE}
+covid_new_data <- covid %>% filter (grepl("contact", pattern = 
+                              tolower(covid$Epidemiological.link...Notes)) | 
+                              grepl("symptom", tolower(covid$Epidemiological.link...Notes)))
+head(covid_new_data)
+```
+<br><br>
+10. In the previous dataset add a column reporting the age (in years, therefore in integer format) of each patient as of October 2nd, 2020. Save this dataset into a .csv file and make it available on your GitHub repository for this assignment.
+
+```{r new column, include = TRUE}
+covid_new_data <- covid_new_data %>%
+  mutate("Age" = as.period(interval(covid_new_data$Date.of.birth, 
+      ymd("2020 October 2")))$year) %>%
+           write_csv("hw3.kf.new_data_set.csv")
+```
+<br><br>
+11. Produce a pie chart for the type of hospitalization for cases born between 1960 and 1980.
+
+```{r piechart, include = TRUE}
+library(ggplot2)
+pie_covid_df <- subset(covid, covid$Date.of.birth >= as.Date("1960-01-01") & 
+         covid$Date.of.birth <= as.Date("1980-01-01"))
+
+ggplot(pie_covid_df, aes(x=factor(1), fill=Hospitalization.type))+
+    geom_bar(width = 1)+
+    coord_polar("y")
+```
+<br><br>
+##Salary 
+
+1. Load the data and check the formatting of the variables.
+
+```{r load data2, include=TRUE}
+adult <- read.csv("adult.csv", row.names = 1)
+# Check data
+str(adult)
+head(adult)
+```
+
+2. Rename the last column (currently called “NA”) containing the dichotomous salary information. Assign the name salary to it.
+```{r rename salary, include = TRUE}
+adult <- rename(adult, salary = 15)
+head(adult)
+```
+
+3. The values in salary have a space in front of them (e.g. " >50K"): remove the space from all values (hint: you can use substring()).
+```{r remove space, inclue = TRUE}
+adult$salary <- trimws(adult$salary, which = c("left"))
+head(adult$salary)
+```
+
+4. Again, in the variable salary, replace “>50K” with the value 1 and “<=50K” with 0. Make sure to format it as a factor with two levels.
+```{r normalize salary, include = TRUE}
+adult2 <- adult %>% 
+  mutate(salary = recode(salary, ">50K" = "1",
+                                   "<=50K" = "0"))
+adult2$salary <- as.numeric(adult2$salary)
+head(adult2)
+```
+
+5. Use the glm() function to estimate this logistic model. Only specify the arguments formula = salary ~ ., data and family = binomial. Save the result of the estimation in an object called fit.
+
+```{r glm, include = TRUE}
+fit = glm(formula = salary ~ ., data = adult2, family = binomial)
+```
+
+6. Using the information in fit (hint: you can use the functions coef() and summary() to extract information), create a dataframe collecting:
+  6.1 The names of the variables (names of the rows of the dataframe);
+  6.2 The value of the coefficients (first column);
+  6.3 A logical vector stating which coefficients are positive (second column);
+  6.4 The p-values (third column). .
+
+```{r fit dataframe, include = TRUE, warning = FALSE, error = FALSE}
+##Variable names, column 1 
+df <- data.frame (row.names1 = (as.data.frame(coef(fit))%>%
+              drop_na() %>%
+              row.names() ))
+                          
+##Coefficient value, column 2 
+df$coef.value <- drop_na (as.data.frame(coef(fit)))[[1]]
+
+##Positive coefficient = TRUE, negative coefficient = FALSE, column 3 
+df <- df %>%
+  mutate("positive.coef" = as.logical(coef.value > 0))
+
+##p-value, column 4 
+df$p.value <- as.data.frame(summary(fit)[["coefficients"]])$'Pr(>|z|)'
+
+``` 
+
+7. Subset the dataframe created in the previous question to only show the rows where the p-values are strictly smaller than 0.05. Knowing that (i) the remaining rows are statistically significant and that (ii) positive coefficients contribute to increase the probability of a salary larger than $50,000 (the opposite for negative values), comment on those variables that negatively contribute to salary.
+
+```{r }
+sigvar <- df %>% 
+  filter (df$p.value < 0.05)
+sigvar
+```
+
+Variables that contribute negatively to salary include: education 7th-8th ,  marital.status Never-married, occupation Farming-fishing, occupation Handlers-cleaners, occupation Other-service, occupation Priv-house-serv,  relationship Own-child,  native.country Columbia, native.country South 
+
+## Bonus 
+
+
+

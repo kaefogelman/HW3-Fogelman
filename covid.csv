@@ -1,0 +1,1112 @@
+,Date.of.birth,Hospitalization.type,Symptoms,First.day.of.symptoms,Outcome,Date.of.outcome,Date.of.diagnosis,Epidemiological.link...Notes
+1,1/22/1956,Home isolation,Symptomatic,2/25/2020,Healed,4/15/2020,3/5/2020,In contact with a positive patient (outside province) in a club. Pediatrician
+2,5/3/1943,Intensive care,Symptomatic,2/27/2020,Deceased,3/14/2020,3/6/2020,None of the common COVID symptoms
+3,10/16/1996,Home isolation,Symptomatic,2/27/2020,Healed,4/15/2020,3/7/2020,Works in the Police. Has been close contact with positive patient (outside province)
+4,10/21/1989,Home isolation,Symptomatic,2/28/2020,Healed,4/19/2020,3/7/2020,Travelled to Lombardia before being tested positive
+5,12/14/1964,Non-Intensive care hospitalization,Symptomatic,2/25/2020,Healed,4/19/2020,3/7/2020,Contact with covid positive patients during the course firefighters outside of province on 20.02.2020
+6,8/7/1952,Non-Intensive care hospitalization,Symptomatic,3/3/2020,Healed,4/21/2020,3/7/2020,unknown
+7,5/11/1952,Non-Intensive care hospitalization,Symptomatic,3/1/2020,Healed,4/15/2020,3/8/2020,unknown
+8,3/6/1957,Home isolation,Symptomatic,2/27/2020,Healed,4/18/2020,3/8/2020,Interstitial pneumonia
+9,1/13/1934,Home isolation,Symptomatic,3/9/2020,Healed,5/7/2020,3/9/2020,Interstitial pneumonia
+10,4/16/1934,Non-Intensive care hospitalization,Symptomatic,3/9/2020,Deceased,3/21/2020,3/9/2020,Interstitial pneumonia
+11,10/11/1960,Home isolation,Symptomatic,2/28/2020,Healed,4/27/2020,3/10/2020,In contact with positive patient (daughter living in Lombardia)
+12,5/23/1972,Home isolation,Symptomatic,3/2/2020,Healed,4/18/2020,3/10/2020,Interstitial pneumonia
+13,3/19/1947,Intensive care,Symptomatic,2/29/2020,Deceased,3/17/2020,3/10/2020,unknown
+14,9/14/1947,Non-Intensive care hospitalization,Symptomatic,2/23/2020,Healed,4/15/2020,3/10/2020,Interstitial pneumonia
+15,9/7/1947,Non-Intensive care hospitalization,Symptomatic,3/5/2020,Healed,4/4/2020,3/10/2020,Interstitial pneumonia
+16,7/29/1987,Non-Intensive care hospitalization,Symptomatic,3/2/2020,Healed,4/19/2020,3/10/2020,Interstitial pneumonia
+17,12/14/1958,Intensive care,Symptomatic,3/5/2020,Healed,4/21/2020,3/11/2020,Travelled to Lombardia before being tested positive. Interstitial pneumonia
+18,4/27/1937,Non-Intensive care hospitalization,Symptomatic,3/2/2020,Deceased,3/28/2020,3/11/2020,unknown
+19,4/24/1934,Non-Intensive care hospitalization,Symptomatic,2/29/2020,Deceased,3/13/2020,3/12/2020,"Diabetic, idiopathic myelofibrosis irc hypertension dementia senile dementia"
+20,3/19/1933,Non-Intensive care hospitalization,Symptomatic,3/11/2020,Healed,4/22/2020,3/12/2020,Healthcare worker - In contact with positive patient
+21,9/17/1940,Non-Intensive care hospitalization,Symptomatic,3/11/2020,Healed,4/15/2020,3/12/2020,Relative of a positive patient
+22,11/5/1940,Non-Intensive care hospitalization,Symptomatic,3/5/2020,Healed,4/22/2020,3/12/2020,Flu symptoms
+23,5/13/1968,Non-Intensive care hospitalization,Symptomatic,3/11/2020,Deceased,4/23/2020,3/12/2020,"Died at the hospital due to pulmonary infection, acinectobatter baumanni vapor, septic shock in covid positive"
+24,10/13/1938,Non-Intensive care hospitalization,Symptomatic,3/11/2020,Deceased,3/23/2020,3/12/2020,Interstitial pneumonia
+25,3/15/1935,Intensive care,Symptomatic,3/9/2020,Deceased,3/27/2020,3/12/2020,Dyslipidemia and hypertension
+26,10/26/1949,Home isolation,Symptomatic,3/7/2020,Healed,4/25/2020,3/12/2020,unknown
+27,7/20/1982,Home isolation,Symptomatic,3/7/2020,Healed,4/19/2020,3/12/2020,Interstitial pneumonia
+28,1/14/1928,Non-Intensive care hospitalization,Symptomatic,3/8/2020,Healed,4/11/2020,3/12/2020,In contact with positive patient
+29,9/29/1936,Intensive care,Symptomatic,3/10/2020,Deceased,3/13/2020,3/13/2020,In contact with positive patient at the hospital
+30,2/16/1974,Home isolation,Symptomatic,3/10/2020,Healed,4/22/2020,3/13/2020,unknown
+31,2/22/1946,Home isolation,Symptomatic,3/10/2020,Healed,4/15/2020,3/13/2020,unknown
+32,12/22/1950,Non-Intensive care hospitalization,Symptomatic,3/9/2020,Deceased,3/28/2020,3/13/2020,Interstitial pneumonia
+33,7/25/1934,Non-Intensive care hospitalization,Symptomatic,3/6/2020,Deceased,3/23/2020,3/13/2020,Interstitial pneumonia
+34,8/4/1984,Home isolation,Symptomatic,3/7/2020,Healed,5/22/2020,3/13/2020,Interstitial pneumonia
+35,11/17/1935,Non-Intensive care hospitalization,Symptomatic,3/2/2020,Healed,5/13/2020,3/13/2020,Flu symptoms
+36,1/29/1975,Non-Intensive care hospitalization,Symptomatic,3/10/2020,Healed,4/23/2020,3/13/2020,Interstitial pneumonia
+37,2/5/1974,Non-Intensive care hospitalization,Symptomatic,3/12/2020,Healed,4/22/2020,3/13/2020,unknown
+38,11/5/1936,Non-Intensive care hospitalization,Symptomatic,3/12/2020,Healed,6/8/2020,3/14/2020,Possible contact with positive patient - ongoing investigation
+39,12/21/1969,Home isolation,Symptomatic,3/5/2020,Healed,4/15/2020,3/14/2020,Interstitial pneumonia
+40,2/13/1953,Non-Intensive care hospitalization,Symptomatic,3/4/2020,Healed,4/28/2020,3/14/2020,Flu symptoms
+41,10/28/1938,Non-Intensive care hospitalization,Symptomatic,3/10/2020,Deceased,4/3/2020,3/14/2020,Interstitial pneumonia
+42,8/15/1986,Home isolation,Symptomatic,3/10/2020,Healed,4/21/2020,3/15/2020,"Travelled to Dubai prior to testing positive
+Interstitial pneumonia"
+43,2/8/1970,Non-Intensive care hospitalization,Symptomatic,3/12/2020,Deceased,4/3/2020,3/15/2020,Interstitial pneumonia and past pathologies
+44,8/24/1953,Home isolation,Symptomatic,3/14/2020,Healed,4/21/2020,3/15/2020,Flu symptoms
+45,4/9/1952,Home isolation,Symptomatic,3/5/2020,Healed,4/26/2020,3/15/2020,In contact with positive patient
+46,12/30/1979,Non-Intensive care hospitalization,Symptomatic,3/14/2020,Healed,4/15/2020,3/15/2020,In contact with positive patient
+47,12/1/1932,Intensive care,Symptomatic,3/7/2020,Deceased,3/24/2020,3/15/2020,Interstitial pneumonia
+48,12/19/1958,Non-Intensive care hospitalization,Symptomatic,3/4/2020,Deceased,5/2/2020,3/15/2020,"Interstitial pneumonia from sars-cov2 acute respiratory failure shock septic shock multiorganic failure.
+Deceased at the hospital"
+49,2/15/2001,Home isolation,Symptomatic,3/10/2020,Healed,4/23/2020,3/15/2020,Interstitial pneumonia
+50,12/15/1934,Non-Intensive care hospitalization,Symptomatic,2/25/2020,Deceased,3/28/2020,3/15/2020,"Tested negative the first time.
+In contact with positive patient afterwards"
+51,10/31/1960,Non-Intensive care hospitalization,Symptomatic,3/14/2020,Healed,4/27/2020,3/15/2020,Interstitial pneumonia
+52,1/10/1932,Non-Intensive care hospitalization,Symptomatic,3/15/2020,Deceased,4/20/2020,3/15/2020,Deceased at the hospital
+53,11/10/1965,Home isolation,Symptomatic,2/19/2020,Healed,4/20/2020,3/15/2020,Interstitial pneumonia
+54,6/11/1962,Home isolation,Symptomatic,3/16/2020,Healed,3/24/2020,3/15/2020,In contact with positive patient
+55,1/3/1948,Non-Intensive care hospitalization,Symptomatic,3/7/2020,Healed,4/20/2020,3/15/2020,In contact with positive patient
+56,8/25/1997,Home isolation,Symptomatic,3/11/2020,Healed,4/18/2020,3/16/2020,Flu symptoms
+57,2/10/1960,NA,Asymptomatic,NA,Deceased,3/15/2020,3/16/2020,Fever
+58,5/1/1949,Non-Intensive care hospitalization,Symptomatic,3/10/2020,Healed,4/13/2020,3/16/2020,Flu symptoms
+59,1/17/1952,Non-Intensive care hospitalization,Symptomatic,3/12/2020,Deceased,3/21/2020,3/16/2020,In contact with positive patient
+60,1/15/1938,Non-Intensive care hospitalization,Symptomatic,3/8/2020,Healed,4/22/2020,3/16/2020,Interstitial pneumonia
+61,3/1/1971,Non-Intensive care hospitalization,Symptomatic,3/15/2020,Deceased,4/2/2020,3/16/2020,Interstitial pneumonia
+62,9/20/1987,Home isolation,Symptomatic,3/10/2020,Healed,4/20/2020,3/16/2020,Flu symptoms
+63,8/25/1974,Home isolation,Symptomatic,3/16/2020,Healed,3/24/2020,3/16/2020,Flu symptoms
+64,2/23/1967,Home isolation,Symptomatic,3/14/2020,Healed,4/19/2020,3/17/2020,In contact with positive patient
+65,1/28/1940,Home isolation,Symptomatic,3/8/2020,Healed,5/7/2020,3/17/2020,Interstitial pneumonia
+66,11/28/1951,Non-Intensive care hospitalization,Symptomatic,2/16/2020,Deceased,5/8/2020,3/17/2020,"In contact with positive patient 
+Deceased hospital delta - pneumonia, acute respiratory failure, cardiovascular failure with metastasized lung cancer"
+67,4/14/1928,Non-Intensive care hospitalization,Symptomatic,3/9/2020,Deceased,3/27/2020,3/17/2020,In contact with positive patient
+68,1/2/1933,Non-Intensive care hospitalization,Symptomatic,3/7/2020,Deceased,3/24/2020,3/17/2020,Flu symptoms
+69,9/6/1943,Non-Intensive care hospitalization,Symptomatic,3/4/2020,Healed,4/22/2020,3/17/2020,Interstitial pneumonia
+70,7/25/1958,Home isolation,Symptomatic,3/16/2020,Healed,4/27/2020,3/17/2020,Interstitial pneumonia
+71,5/26/1965,Non-Intensive care hospitalization,Symptomatic,3/16/2020,Healed,4/15/2020,3/17/2020,Interstitial pneumonia
+72,3/2/1969,Non-Intensive care hospitalization,Symptomatic,3/15/2020,Healed,4/26/2020,3/17/2020,Flu symptoms
+73,3/17/1958,Non-Intensive care hospitalization,Symptomatic,3/16/2020,Healed,4/25/2020,3/17/2020,Interstitial pneumonia
+74,2/2/1949,Intensive care,Symptomatic,3/10/2020,Healed,5/12/2020,3/17/2020,Interstitial pneumonia
+75,7/5/1963,Non-Intensive care hospitalization,Symptomatic,3/9/2020,Healed,4/27/2020,3/17/2020,Flu symptoms
+76,3/28/1988,Non-Intensive care hospitalization,Symptomatic,3/15/2020,Healed,4/22/2020,3/17/2020,In contact with positive patient
+77,12/27/1962,Home isolation,Symptomatic,3/13/2020,Healed,4/19/2020,3/17/2020,Interstitial pneumonia
+78,1/31/1956,Non-Intensive care hospitalization,Symptomatic,3/7/2020,Healed,5/2/2020,3/17/2020,Flu symptoms - Trasferred to the health center of a different province
+79,4/8/1991,Home isolation,Symptomatic,3/13/2020,Healed,4/19/2020,3/17/2020,Flu symptoms
+80,6/27/1944,Non-Intensive care hospitalization,Symptomatic,3/15/2020,Deceased,3/17/2020,3/17/2020,Interstitial pneumonia
+81,4/5/1949,Intensive care,Symptomatic,3/13/2020,Healed,4/17/2020,3/17/2020,Interstitial pneumonia
+82,7/29/1980,Intensive care,Symptomatic,3/10/2020,Healed,4/11/2020,3/17/2020,Interstitial pneumonia
+83,5/5/1980,Non-Intensive care hospitalization,Symptomatic,3/16/2020,Healed,3/26/2020,3/17/2020,In contact with positive patient
+84,9/30/1960,Non-Intensive care hospitalization,Symptomatic,3/8/2020,Healed,5/7/2020,3/17/2020,Flu symptoms
+85,1/21/1963,Home isolation,Asymptomatic,NA,Healed,6/8/2020,3/17/2020,In contact with positive patient
+86,6/4/1964,Home isolation,Symptomatic,3/10/2020,Healed,4/20/2020,3/17/2020,Interstitial pneumonia
+87,12/14/1931,Non-Intensive care hospitalization,Symptomatic,3/6/2020,Deceased,5/16/2020,3/17/2020,Interstitial pneumonia
+88,8/31/1968,Home isolation,Symptomatic,3/17/2020,Healed,4/26/2020,3/17/2020,Flu symptoms
+89,5/1/1942,Non-Intensive care hospitalization,Symptomatic,3/10/2020,Healed,4/20/2020,3/17/2020,Flu symptoms
+90,3/7/1963,Non-Intensive care hospitalization,Symptomatic,3/13/2020,Healed,4/23/2020,3/17/2020,Flu symptoms
+91,2/25/1974,Non-Intensive care hospitalization,Symptomatic,3/6/2020,Healed,4/20/2020,3/17/2020,Interstitial pneumonia
+92,8/29/1944,Non-Intensive care hospitalization,Symptomatic,3/16/2020,Deceased,3/30/2020,3/17/2020,Flu symptoms
+93,8/11/1933,Intensive care,Symptomatic,2/24/2020,Deceased,3/24/2020,3/17/2020,In contact with positive patient
+94,12/21/1928,Non-Intensive care hospitalization,Symptomatic,3/10/2020,Deceased,3/26/2020,3/17/2020,Flu symptoms with past pathologies
+95,8/15/1942,Non-Intensive care hospitalization,Symptomatic,3/7/2020,Healed,4/28/2020,3/17/2020,Flu symptoms
+96,6/26/1980,Home isolation,Symptomatic,3/15/2020,Healed,4/23/2020,3/17/2020,Flu symptoms
+97,5/29/1967,Non-Intensive care hospitalization,Symptomatic,3/17/2020,Deceased,3/27/2020,3/17/2020,In contact with positive patient
+98,10/20/1962,Home isolation,Symptomatic,3/17/2020,Healed,5/4/2020,3/17/2020,In contact with positive patient
+99,11/13/1955,Home isolation,Symptomatic,3/17/2020,Healed,5/6/2020,3/17/2020,In contact with positive patient
+100,10/10/1996,Home isolation,Symptomatic,3/17/2020,Healed,5/2/2020,3/17/2020,In contact with positive patient
+101,2/9/1956,Home isolation,Symptomatic,3/17/2020,Healed,5/15/2020,3/17/2020,In contact with positive patient
+102,8/20/1958,Home isolation,Symptomatic,3/17/2020,Healed,5/3/2020,3/17/2020,In contact with positive patient
+103,10/19/1966,Home isolation,Symptomatic,3/15/2020,Healed,4/25/2020,3/17/2020,In contact with positive patient
+104,3/19/1928,Home isolation,Symptomatic,3/16/2020,Healed,4/22/2020,3/17/2020,In contact with positive patient
+105,8/27/1971,Non-Intensive care hospitalization,Symptomatic,3/5/2020,Healed,4/25/2020,3/17/2020,In contact with positive patient
+106,9/3/1940,Non-Intensive care hospitalization,Symptomatic,3/13/2020,Healed,4/20/2020,3/18/2020,Flu symptoms
+107,9/10/1973,Home isolation,Symptomatic,3/15/2020,Healed,6/27/2020,3/18/2020,In contact with positive patient - Tested positive again on 06/01/2020
+108,12/14/1994,Home isolation,Symptomatic,3/18/2020,Healed,4/22/2020,3/18/2020,In contact with positive patient
+109,3/31/1959,Home isolation,Symptomatic,3/10/2020,Healed,4/23/2020,3/18/2020,Interstitial pneumonia
+110,7/25/1944,Home isolation,Symptomatic,3/13/2020,Deceased,4/2/2020,3/18/2020,unknown
+111,2/5/1950,Non-Intensive care hospitalization,Symptomatic,3/15/2020,Healed,4/17/2020,3/18/2020,unknown
+112,7/28/1960,Non-Intensive care hospitalization,Symptomatic,3/9/2020,Healed,4/24/2020,3/18/2020,Flu symptoms
+113,2/6/1950,Non-Intensive care hospitalization,Symptomatic,3/7/2020,Healed,4/30/2020,3/18/2020,Interstitial pneumonia
+114,3/13/1949,Non-Intensive care hospitalization,Symptomatic,3/17/2020,Healed,4/22/2020,3/18/2020,Flu symptoms
+115,6/24/1951,Home isolation,Symptomatic,3/7/2020,Healed,4/28/2020,3/18/2020,Interstitial pneumonia
+116,1/17/1951,Home isolation,Symptomatic,3/12/2020,Healed,5/7/2020,3/18/2020,Flu symptoms
+117,5/25/1964,Non-Intensive care hospitalization,Symptomatic,3/10/2020,Healed,4/17/2020,3/18/2020,Interstitial pneumonia
+118,6/22/1955,Home isolation,Symptomatic,3/14/2020,Healed,4/29/2020,3/18/2020,Interstitial pneumonia
+119,7/24/1975,Home isolation,Symptomatic,3/18/2020,Healed,5/8/2020,3/19/2020,In contact with positive patient
+120,12/11/1975,Home isolation,Symptomatic,3/16/2020,Healed,4/20/2020,3/19/2020,Interstitial pneumonia
+121,8/18/1934,Non-Intensive care hospitalization,Symptomatic,3/16/2020,Healed,4/23/2020,3/19/2020,Interstitial pneumonia
+122,12/15/1974,Home isolation,Symptomatic,3/11/2020,Healed,4/19/2020,3/19/2020,Interstitial pneumonia
+123,3/28/1967,Non-Intensive care hospitalization,Symptomatic,3/18/2020,Healed,5/13/2020,3/19/2020,In contact with positive patient
+124,12/6/1933,Non-Intensive care hospitalization,Symptomatic,3/16/2020,Deceased,3/27/2020,3/19/2020,Flu symptoms
+125,8/21/1931,Non-Intensive care hospitalization,Symptomatic,3/19/2020,Deceased,3/20/2020,3/19/2020,unknown
+126,6/25/1963,Home isolation,Symptomatic,3/15/2020,Healed,4/21/2020,3/19/2020,In contact with positive patient
+127,2/18/1980,Non-Intensive care hospitalization,Symptomatic,3/19/2020,Healed,5/16/2020,3/19/2020,Flu symptoms
+128,8/22/1960,Home isolation,Symptomatic,3/17/2020,Healed,4/29/2020,3/19/2020,In contact with positive patient
+129,8/13/1999,Home isolation,Symptomatic,3/6/2020,Healed,4/16/2020,3/19/2020,Flu symptoms
+130,10/14/1963,Non-Intensive care hospitalization,Symptomatic,3/18/2020,Healed,5/9/2020,3/19/2020,In contact with positive patient
+131,5/24/1968,Non-Intensive care hospitalization,Symptomatic,3/11/2020,Healed,4/26/2020,3/19/2020,Flu symptoms
+132,3/17/1955,Non-Intensive care hospitalization,Symptomatic,3/13/2020,Healed,5/8/2020,3/19/2020,Flu symptoms
+133,1/17/1978,Non-Intensive care hospitalization,Symptomatic,3/18/2020,Healed,6/24/2020,3/19/2020,Flu symptoms
+134,9/22/1993,Home isolation,Symptomatic,3/15/2020,Healed,4/26/2020,3/19/2020,Flu symptoms
+135,1/17/1976,Non-Intensive care hospitalization,Symptomatic,3/19/2020,Healed,4/26/2020,3/19/2020,Flu symptoms
+136,10/29/1993,Home isolation,Symptomatic,3/19/2020,Healed,4/20/2020,3/19/2020,Flu symptoms
+137,12/23/1948,Home isolation,Symptomatic,3/9/2020,Healed,4/25/2020,3/19/2020,Flu symptoms
+138,12/3/1966,Non-Intensive care hospitalization,Symptomatic,3/16/2020,Healed,4/25/2020,3/19/2020,Interstitial pneumonia
+139,6/1/1928,Non-Intensive care hospitalization,Symptomatic,3/18/2020,Deceased,5/23/2020,3/19/2020,"Septic schock, multiple organ failure, recent coronavirus pneumonia"
+140,12/1/1942,Home isolation,Symptomatic,3/13/2020,Deceased,4/21/2020,3/19/2020,Died at the hospital. In contact with positive patient
+141,11/21/1968,Home isolation,Symptomatic,3/16/2020,Healed,4/22/2020,3/19/2020,In contact with positive patient
+142,5/31/1994,Home isolation,Symptomatic,3/22/2020,Healed,5/3/2020,3/19/2020,Flu symptoms
+143,12/18/1993,Non-Intensive care hospitalization,Symptomatic,3/22/2020,Healed,5/4/2020,3/19/2020,Flu symptoms
+144,11/26/1985,Non-Intensive care hospitalization,Symptomatic,3/13/2020,Healed,6/29/2020,3/19/2020,Flu symptoms - Symptoms have worstened on 05/21/2020
+145,8/22/1971,Non-Intensive care hospitalization,Symptomatic,3/9/2020,Healed,4/9/2020,3/20/2020,Interstitial pneumonia
+146,12/19/1977,Home isolation,Symptomatic,3/10/2020,Healed,4/23/2020,3/20/2020,In contact with positive patient
+147,11/27/1946,Non-Intensive care hospitalization,Symptomatic,3/20/2020,Deceased,3/27/2020,3/20/2020,Interstitial pneumonia
+148,6/20/1959,Non-Intensive care hospitalization,Symptomatic,3/20/2020,Healed,4/27/2020,3/20/2020,Flu symptoms
+149,10/18/1950,Non-Intensive care hospitalization,Symptomatic,3/20/2020,Healed,5/6/2020,3/20/2020,Flu symptoms
+150,1/21/1949,Non-Intensive care hospitalization,Symptomatic,3/19/2020,Healed,4/21/2020,3/20/2020,Flu symptoms
+151,5/21/1977,Non-Intensive care hospitalization,Symptomatic,3/18/2020,Healed,4/25/2020,3/20/2020,Interstitial pneumonia
+152,1/28/1974,Home isolation,Symptomatic,3/18/2020,Healed,4/21/2020,3/20/2020,In contact with positive patient
+153,12/11/1993,Home isolation,Symptomatic,3/16/2020,Healed,4/20/2020,3/20/2020,In contact with positive patient
+154,1/12/1960,Home isolation,Symptomatic,3/20/2020,Healed,5/6/2020,3/20/2020,In contact with positive patient - Healthcare worker in retirement home)
+155,7/29/1946,Home isolation,Symptomatic,3/20/2020,Healed,4/21/2020,3/20/2020,In contact with positive patient
+156,6/26/1950,Non-Intensive care hospitalization,Symptomatic,3/12/2020,Deceased,4/9/2020,3/20/2020,Interstitial pneumonia
+157,3/28/1956,Home isolation,Symptomatic,3/22/2020,Healed,4/22/2020,3/20/2020,In contact with positive patient
+158,4/8/1973,Home isolation,Symptomatic,3/20/2020,Healed,4/29/2020,3/20/2020,Healthcare worker
+159,7/11/1943,Intensive care,Symptomatic,3/20/2020,Healed,5/11/2020,3/20/2020,Flu symptoms
+160,9/5/1978,Non-Intensive care hospitalization,Symptomatic,3/19/2020,Healed,5/2/2020,3/20/2020,Interstitial pneumonia
+161,8/9/1968,Home isolation,Symptomatic,3/13/2020,Healed,4/30/2020,3/20/2020,Interstitial pneumonia
+162,5/9/1948,Non-Intensive care hospitalization,Symptomatic,3/13/2020,Healed,6/19/2020,3/20/2020,Interstitial pneumonia
+163,2/18/1954,Non-Intensive care hospitalization,Symptomatic,3/18/2020,Healed,4/25/2020,3/20/2020,In contact with positive patient
+164,5/5/1942,Non-Intensive care hospitalization,Symptomatic,3/15/2020,Deceased,4/8/2020,3/20/2020,Interstitial pneumonia
+165,10/23/1949,Non-Intensive care hospitalization,Symptomatic,3/20/2020,Deceased,3/23/2020,3/20/2020,Flu symptoms
+166,5/29/1960,Non-Intensive care hospitalization,Symptomatic,3/10/2020,Healed,4/25/2020,3/20/2020,Interstitial pneumonia
+167,7/19/1982,Home isolation,Symptomatic,3/18/2020,Healed,4/27/2020,3/20/2020,In contact with positive patient
+168,12/3/1960,Home isolation,Symptomatic,3/20/2020,Healed,5/24/2020,3/20/2020,In contact with positive patient
+169,6/7/1968,Home isolation,Symptomatic,3/6/2020,Healed,4/18/2020,3/20/2020,Interstitial pneumonia
+170,5/23/1986,Non-Intensive care hospitalization,Symptomatic,3/10/2020,Healed,4/23/2020,3/20/2020,In contact with positive patient
+171,5/19/1949,Non-Intensive care hospitalization,Symptomatic,3/12/2020,Healed,4/25/2020,3/20/2020,Interstitial pneumonia
+172,5/12/1955,Non-Intensive care hospitalization,Symptomatic,3/12/2020,Healed,4/26/2020,3/21/2020,Interstitial pneumonia
+173,10/13/1972,Non-Intensive care hospitalization,Symptomatic,3/10/2020,Healed,4/29/2020,3/21/2020,Interstitial pneumonia
+174,9/21/1954,Intensive care,Symptomatic,3/13/2020,Deceased,4/24/2020,3/21/2020,"Died at the hospital for covid pneumonia, acute respiratory and acute renal failure"
+175,2/11/1944,Intensive care,Symptomatic,3/16/2020,Deceased,3/27/2020,3/21/2020,Flu symptoms
+176,1/23/1977,Home isolation,Symptomatic,3/11/2020,Healed,4/30/2020,3/21/2020,In contact with positive patient (outside of the province)
+177,8/7/1927,Non-Intensive care hospitalization,Symptomatic,3/16/2020,Deceased,5/23/2020,3/21/2020,In contact with positive patient - Died at the hospital
+178,8/31/1947,Non-Intensive care hospitalization,Symptomatic,3/7/2020,Healed,4/27/2020,3/21/2020,Flu symptoms
+179,8/7/1957,Non-Intensive care hospitalization,Symptomatic,3/16/2020,Healed,4/26/2020,3/21/2020,Flu symptoms
+180,7/17/1985,Non-Intensive care hospitalization,Symptomatic,3/19/2020,Healed,4/28/2020,3/21/2020,Flu symptoms
+181,4/18/1969,Non-Intensive care hospitalization,Symptomatic,3/19/2020,Healed,4/10/2020,3/21/2020,Flu symptoms
+182,3/14/1937,Intensive care,Symptomatic,3/14/2020,Deceased,5/17/2020,3/21/2020,Flu symptoms - Died at the hospital
+183,11/4/1963,Non-Intensive care hospitalization,Symptomatic,3/9/2020,Healed,5/2/2020,3/21/2020,Interstitial pneumonia
+184,9/13/1926,Non-Intensive care hospitalization,Symptomatic,3/18/2020,Deceased,3/22/2020,3/21/2020,unknown
+185,1/26/1990,Home isolation,Symptomatic,3/15/2020,Healed,4/21/2020,3/21/2020,Flu symptoms
+186,8/20/1951,Non-Intensive care hospitalization,Symptomatic,3/20/2020,Healed,4/29/2020,3/21/2020,Flu symptoms
+187,6/4/1966,Non-Intensive care hospitalization,Symptomatic,3/20/2020,Healed,4/18/2020,3/21/2020,Flu symptoms
+188,3/25/1970,Non-Intensive care hospitalization,Symptomatic,3/23/2020,Healed,5/2/2020,3/21/2020,Flu symptoms
+189,4/22/1961,Home isolation,Symptomatic,3/13/2020,Healed,4/16/2020,3/21/2020,Flu symptoms
+190,11/1/1977,Home isolation,Symptomatic,3/14/2020,Healed,5/5/2020,3/21/2020,Flu symptoms
+191,7/29/1980,Non-Intensive care hospitalization,Symptomatic,3/17/2020,Healed,5/1/2020,3/22/2020,Flu symptoms
+192,8/12/1930,Non-Intensive care hospitalization,Symptomatic,3/18/2020,Healed,5/13/2020,3/22/2020,Flu symptoms
+193,3/11/1950,Non-Intensive care hospitalization,Symptomatic,3/18/2020,Healed,4/28/2020,3/22/2020,Flu symptoms
+194,11/10/1957,Non-Intensive care hospitalization,Symptomatic,3/20/2020,Healed,5/7/2020,3/22/2020,Flu symptoms
+195,6/4/1966,Home isolation,Symptomatic,3/14/2020,Healed,4/22/2020,3/22/2020,Interstitial pneumonia
+196,3/29/1961,Non-Intensive care hospitalization,Symptomatic,3/17/2020,Healed,5/3/2020,3/22/2020,Interstitial pneumonia
+197,11/28/1956,Non-Intensive care hospitalization,Symptomatic,3/12/2020,Healed,5/2/2020,3/22/2020,Flu symptoms
+198,2/9/1950,Non-Intensive care hospitalization,Symptomatic,3/22/2020,Healed,4/29/2020,3/22/2020,Flu symptoms
+199,7/18/1972,Home isolation,Symptomatic,3/22/2020,Healed,4/29/2020,3/22/2020,Flu symptoms
+200,4/14/1958,Home isolation,Symptomatic,3/19/2020,Healed,4/22/2020,3/22/2020,In contact with positive patient
+201,7/8/1975,Home isolation,Symptomatic,3/19/2020,Healed,4/18/2020,3/22/2020,In contact with positive patient
+202,4/10/1943,Non-Intensive care hospitalization,Symptomatic,3/21/2020,Deceased,4/14/2020,3/22/2020,Cholangio carcinoma + interstitial pneumonia in covid positive - deceased at cona hospital
+203,12/30/1958,Non-Intensive care hospitalization,Symptomatic,3/14/2020,Healed,4/16/2020,3/23/2020,Interstitial pneumonia
+204,8/28/1943,Non-Intensive care hospitalization,Symptomatic,3/18/2020,Deceased,3/24/2020,3/23/2020,Flu symptoms
+205,12/3/1972,Home isolation,Symptomatic,3/23/2020,Healed,4/25/2020,3/23/2020,In contact with positive patient
+206,2/4/1969,Home isolation,Symptomatic,3/20/2020,Healed,5/16/2020,3/23/2020,Flu symptoms
+207,12/15/1962,Home isolation,Symptomatic,3/11/2020,Healed,5/2/2020,3/23/2020,Interstitial pneumonia
+208,5/23/1976,Non-Intensive care hospitalization,Symptomatic,3/12/2020,Healed,4/25/2020,3/23/2020,Interstitial pneumonia
+209,7/24/1974,Non-Intensive care hospitalization,Symptomatic,3/14/2020,Healed,4/11/2020,3/23/2020,Interstitial pneumonia
+210,1/1/1947,Non-Intensive care hospitalization,Symptomatic,3/22/2020,Deceased,3/31/2020,3/23/2020,Interstitial pneumonia
+211,4/11/1939,Non-Intensive care hospitalization,Symptomatic,3/22/2020,Healed,5/10/2020,3/23/2020,In contact with positive patient
+212,12/5/1932,Non-Intensive care hospitalization,Symptomatic,3/21/2020,Deceased,4/2/2020,3/23/2020,In contact with positive patient
+213,7/15/1987,Non-Intensive care hospitalization,Symptomatic,3/20/2020,Healed,4/23/2020,3/23/2020,In contact with positive patient
+214,10/29/1937,Non-Intensive care hospitalization,Symptomatic,3/22/2020,Healed,4/23/2020,3/23/2020,Flu symptoms
+215,12/5/1962,Non-Intensive care hospitalization,Symptomatic,3/17/2020,Healed,5/9/2020,3/23/2020,Flu symptoms
+216,5/9/1937,Non-Intensive care hospitalization,Symptomatic,3/16/2020,Healed,5/11/2020,3/23/2020,Flu symptoms
+217,3/30/1939,Non-Intensive care hospitalization,Symptomatic,3/13/2020,Healed,4/20/2020,3/23/2020,Flu symptoms
+218,3/29/1955,Non-Intensive care hospitalization,Symptomatic,3/10/2020,Deceased,4/22/2020,3/23/2020,Died for pneumonia at the hospital
+219,4/16/1966,Home isolation,Symptomatic,3/15/2020,Healed,4/28/2020,3/23/2020,Interstitial pneumonia
+220,5/7/1937,Non-Intensive care hospitalization,Symptomatic,3/1/2020,Healed,5/18/2020,3/23/2020,Flu symptoms
+221,7/10/1976,Home isolation,Symptomatic,3/20/2020,Healed,4/23/2020,3/23/2020,Flu symptoms
+222,4/16/1961,Non-Intensive care hospitalization,Symptomatic,3/16/2020,Healed,5/2/2020,3/24/2020,Flu symptoms
+223,10/13/1930,Non-Intensive care hospitalization,Symptomatic,3/16/2020,Healed,5/4/2020,3/24/2020,Interstitial pneumonia
+224,6/25/1951,Non-Intensive care hospitalization,Symptomatic,3/10/2020,Healed,5/5/2020,3/24/2020,Flu symptoms
+225,3/28/1958,Non-Intensive care hospitalization,Symptomatic,3/18/2020,Healed,4/24/2020,3/24/2020,Flu symptoms
+226,11/10/1944,Non-Intensive care hospitalization,Symptomatic,3/15/2020,Healed,5/29/2020,3/24/2020,Interstitial pneumonia
+227,4/25/1931,Non-Intensive care hospitalization,Symptomatic,3/23/2020,Healed,5/9/2020,3/24/2020,Flu symptoms
+228,11/24/1953,Non-Intensive care hospitalization,Symptomatic,3/20/2020,Healed,4/25/2020,3/24/2020,In contact with positive patient
+229,9/5/1941,Non-Intensive care hospitalization,Symptomatic,3/20/2020,Healed,5/3/2020,3/24/2020,Flu symptoms
+230,11/2/1963,Intensive care,Symptomatic,3/19/2020,Deceased,3/24/2020,3/24/2020,Flu symptoms
+231,6/28/1944,Non-Intensive care hospitalization,Symptomatic,3/23/2020,Deceased,4/23/2020,3/24/2020,Died for pneumonia at the hospital - Guest of a retirement house
+232,3/13/1954,Non-Intensive care hospitalization,Symptomatic,3/14/2020,Deceased,4/2/2020,3/24/2020,Interstitial pneumonia
+233,4/29/1947,Non-Intensive care hospitalization,Symptomatic,3/20/2020,Deceased,4/9/2020,3/24/2020,Interstitial pneumonia
+234,2/28/1948,Non-Intensive care hospitalization,Symptomatic,3/14/2020,Healed,5/2/2020,3/24/2020,Interstitial pneumonia
+235,5/27/1964,Non-Intensive care hospitalization,Symptomatic,3/18/2020,Healed,5/4/2020,3/24/2020,Flu symptoms
+236,7/12/1946,Non-Intensive care hospitalization,Symptomatic,3/16/2020,Healed,5/2/2020,3/24/2020,Flu symptoms
+237,3/25/1941,Non-Intensive care hospitalization,Symptomatic,3/23/2020,Deceased,4/6/2020,3/24/2020,Past pathologies
+238,12/12/1932,Non-Intensive care hospitalization,Symptomatic,3/19/2020,Healed,5/17/2020,3/24/2020,Flu symptoms
+239,1/14/1932,Non-Intensive care hospitalization,Symptomatic,3/22/2020,Deceased,4/7/2020,3/24/2020,Interstitial pneumonia
+240,7/25/1941,Non-Intensive care hospitalization,Symptomatic,3/24/2020,Healed,5/3/2020,3/24/2020,Flu symptoms
+241,9/17/1945,Non-Intensive care hospitalization,Symptomatic,3/23/2020,Healed,4/28/2020,3/24/2020,Flu symptoms
+242,1/18/1996,Home isolation,Symptomatic,3/19/2020,Healed,4/19/2020,3/24/2020,In contact with positive patient
+243,4/5/1974,Home isolation,Symptomatic,3/23/2020,Healed,4/30/2020,3/24/2020,Flu symptoms
+244,11/10/1957,Home isolation,Symptomatic,3/25/2020,Healed,4/18/2020,3/24/2020,In contact with positive patient
+245,1/1/1962,Home isolation,Symptomatic,3/20/2020,Healed,4/22/2020,3/24/2020,In contact with positive patient
+246,1/30/1948,Home isolation,Symptomatic,3/21/2020,Healed,5/22/2020,3/24/2020,In contact with positive patient
+247,11/19/1977,Home isolation,Symptomatic,3/21/2020,Healed,4/27/2020,3/24/2020,Flu symptoms
+248,1/25/1936,Home isolation,Symptomatic,3/23/2020,Healed,4/27/2020,3/24/2020,In contact with positive patient
+249,6/18/1990,Home isolation,Symptomatic,3/23/2020,Healed,4/26/2020,3/24/2020,Flu symptoms
+250,3/16/1982,Home isolation,Symptomatic,3/24/2020,Healed,5/8/2020,3/24/2020,In contact with positive patient
+251,4/7/1934,Non-Intensive care hospitalization,Symptomatic,3/13/2020,Deceased,3/30/2020,3/24/2020,Interstitial pneumonia
+252,3/3/1972,Home isolation,Symptomatic,3/29/2020,Healed,5/22/2020,3/24/2020,Interstitial pneumonia
+253,10/27/1945,Non-Intensive care hospitalization,Symptomatic,3/11/2020,Deceased,4/10/2020,3/25/2020,unknown
+254,6/29/1967,Non-Intensive care hospitalization,Symptomatic,3/18/2020,Healed,4/10/2020,3/25/2020,Flu symptoms
+255,9/10/1934,Non-Intensive care hospitalization,Symptomatic,3/24/2020,Deceased,3/26/2020,3/25/2020,Flu symptoms. congestive heart failure.
+256,7/1/1972,Home isolation,Symptomatic,3/18/2020,Healed,4/20/2020,3/25/2020,Interstitial pneumonia
+257,11/25/1941,Non-Intensive care hospitalization,Symptomatic,3/22/2020,Healed,5/11/2020,3/25/2020,In contact with positive patient
+258,10/6/1933,Non-Intensive care hospitalization,Symptomatic,3/18/2020,Healed,7/20/2020,3/25/2020,Flu symptoms - Worstened on 05/17/2020
+259,9/14/1985,Home isolation,Symptomatic,4/1/2020,Healed,5/12/2020,3/25/2020,Healthcare worker In contact with positive patient
+260,2/1/1963,Non-Intensive care hospitalization,Symptomatic,3/14/2020,Healed,5/2/2020,3/25/2020,Flu symptoms
+261,2/15/1989,Non-Intensive care hospitalization,Symptomatic,3/9/2020,Healed,4/28/2020,3/26/2020,Flu symptoms
+262,9/24/1953,Intensive care,Symptomatic,3/24/2020,Healed,5/3/2020,3/26/2020,Interstitial pneumonia
+263,5/24/1929,Non-Intensive care hospitalization,Symptomatic,3/24/2020,Deceased,4/8/2020,3/26/2020,"Interstitial pneumonia
+Past pathologies"
+264,1/8/1933,Home isolation,Symptomatic,3/23/2020,Healed,5/5/2020,3/26/2020,In contact with positive patient
+265,9/13/1990,Home isolation,Symptomatic,3/24/2020,Healed,5/8/2020,3/26/2020,In contact with positive patient
+266,5/28/1973,Home isolation,Symptomatic,3/26/2020,Healed,4/29/2020,3/26/2020,Flu symptoms
+267,8/5/1931,Non-Intensive care hospitalization,Symptomatic,3/25/2020,Healed,4/15/2020,3/26/2020,In contact with positive patient
+268,1/13/1994,Home isolation,Symptomatic,3/20/2020,Healed,4/18/2020,3/26/2020,Flu symptoms
+269,10/15/1982,Home isolation,Symptomatic,3/25/2020,Healed,4/17/2020,3/26/2020,Flu symptoms
+270,12/8/1963,Home isolation,Symptomatic,3/23/2020,Healed,5/7/2020,3/26/2020,Flu symptoms
+271,4/30/1978,Home isolation,Symptomatic,3/25/2020,Healed,5/15/2020,3/26/2020,In contact with positive patient
+272,5/29/1993,Home isolation,Symptomatic,3/25/2020,Healed,5/15/2020,3/26/2020,Flu symptoms
+273,5/8/1976,Home isolation,Symptomatic,3/23/2020,Healed,4/20/2020,3/26/2020,In contact with positive patient
+274,6/22/1961,Home isolation,Symptomatic,3/24/2020,Healed,4/30/2020,3/26/2020,Flu symptoms
+275,6/7/1977,Home isolation,Symptomatic,3/15/2020,Healed,4/28/2020,3/26/2020,In contact with positive patient
+276,12/5/1937,Non-Intensive care hospitalization,Symptomatic,3/5/2020,Healed,5/7/2020,3/26/2020,Flu symptoms
+277,10/7/1953,Non-Intensive care hospitalization,Symptomatic,3/20/2020,Deceased,4/4/2020,3/26/2020,Interstitial pneumonia past pathologies
+278,11/6/1962,Non-Intensive care hospitalization,Symptomatic,3/20/2020,Healed,4/22/2020,3/26/2020,Flu symptoms
+279,9/19/1940,Intensive care,Symptomatic,3/18/2020,Deceased,5/11/2020,3/26/2020,"Died at the hospital - colic perforation and peritonitis, septic shock"
+280,4/16/1949,Non-Intensive care hospitalization,Symptomatic,3/19/2020,Healed,4/21/2020,3/26/2020,Flu symptoms
+281,9/29/1962,Home isolation,Symptomatic,3/17/2020,Healed,5/2/2020,3/26/2020,In contact with positive patient
+282,12/16/1985,Home isolation,Symptomatic,3/25/2020,Healed,5/8/2020,3/26/2020,In contact with positive patient
+283,8/12/1987,Home isolation,Symptomatic,3/25/2020,Healed,4/27/2020,3/26/2020,In contact with positive patient
+284,3/30/1978,Home isolation,Symptomatic,3/25/2020,Healed,4/25/2020,3/26/2020,Flu symptoms
+285,5/16/1988,Home isolation,Symptomatic,3/25/2020,Healed,5/12/2020,3/26/2020,In contact with positive patient
+286,6/17/1961,Home isolation,Symptomatic,3/21/2020,Healed,5/21/2020,3/26/2020,In contact with positive patient
+287,3/14/1959,Home isolation,Symptomatic,3/16/2020,Healed,5/7/2020,3/26/2020,In contact with positive patient
+288,7/17/1989,Home isolation,Symptomatic,3/25/2020,Healed,4/21/2020,3/26/2020,In contact with positive patient
+289,12/23/1968,Home isolation,Symptomatic,3/25/2020,Healed,4/25/2020,3/26/2020,Flu symptoms
+290,1/10/1973,Home isolation,Symptomatic,3/21/2020,Healed,4/29/2020,3/26/2020,Flu symptoms
+291,11/21/1976,Home isolation,Symptomatic,3/21/2020,Healed,4/15/2020,3/26/2020,Flu symptoms
+292,1/1/1943,Non-Intensive care hospitalization,Symptomatic,3/24/2020,Healed,4/25/2020,3/27/2020,Interstitial pneumonia
+293,7/5/1960,Non-Intensive care hospitalization,Symptomatic,3/16/2020,Healed,5/20/2020,3/27/2020,Interstitial pneumonia
+294,7/9/1965,Non-Intensive care hospitalization,Symptomatic,3/24/2020,Healed,4/15/2020,3/27/2020,Flu symptoms
+295,4/14/1965,Home isolation,Symptomatic,3/17/2020,Healed,5/2/2020,3/27/2020,In contact with positive patient
+296,9/18/1939,Non-Intensive care hospitalization,Symptomatic,3/16/2020,Deceased,3/27/2020,3/27/2020,Flu symptoms
+297,1/19/1939,Non-Intensive care hospitalization,Symptomatic,3/19/2020,Deceased,4/4/2020,3/27/2020,Interstitial pneumonia past pathologies
+298,5/15/1934,Non-Intensive care hospitalization,Symptomatic,3/20/2020,Deceased,4/7/2020,3/27/2020,Interstitial pneumonia
+299,6/15/1934,Home isolation,Symptomatic,3/26/2020,Healed,5/11/2020,3/27/2020,Flu symptoms
+300,4/11/1971,Non-Intensive care hospitalization,Symptomatic,3/20/2020,Healed,5/30/2020,3/27/2020,Interstitial pneumonia
+301,8/31/1964,Non-Intensive care hospitalization,Symptomatic,3/26/2020,Healed,5/2/2020,3/27/2020,Flu symptoms
+302,3/24/1980,Home isolation,Symptomatic,3/24/2020,Healed,4/27/2020,3/27/2020,Flu symptoms
+303,10/9/1964,Home isolation,Asymptomatic,NA,Healed,5/2/2020,3/27/2020,Healtcare worker
+304,9/30/1954,Home isolation,Symptomatic,3/15/2020,Healed,7/3/2020,3/27/2020,Flu symptoms
+305,1/12/1977,Home isolation,Symptomatic,3/17/2020,Healed,4/19/2020,3/28/2020,Flu symptoms
+306,5/3/1982,Home isolation,Symptomatic,3/23/2020,Healed,5/17/2020,3/28/2020,Flu symptoms
+307,1/26/1950,Non-Intensive care hospitalization,Symptomatic,3/26/2020,Healed,4/28/2020,3/28/2020,Flu symptoms
+308,4/11/1957,Non-Intensive care hospitalization,Symptomatic,3/23/2020,Healed,4/30/2020,3/28/2020,Flu symptoms
+309,8/10/1986,Home isolation,Symptomatic,3/16/2020,Healed,4/22/2020,3/28/2020,Healthcare worker - contact with positive patient
+310,7/9/1964,Home isolation,Symptomatic,3/27/2020,Healed,5/18/2020,3/28/2020,Healthcare worker - contact with positive patient
+311,2/14/1944,Intensive care,Symptomatic,3/22/2020,Healed,5/9/2020,3/28/2020,Interstitial pneumonia
+312,10/25/1988,Home isolation,Symptomatic,3/30/2020,Healed,4/30/2020,3/28/2020,Healthcare worker - contact with positive patient
+313,5/20/1926,Non-Intensive care hospitalization,Symptomatic,3/27/2020,Deceased,4/15/2020,3/28/2020,Interstitial pneumonia - Contact with positive patient
+314,5/10/1964,Home isolation,Asymptomatic,NA,Healed,5/1/2020,3/28/2020,Healthcare worker In contact with positive patient
+315,11/26/1964,Home isolation,Symptomatic,3/31/2020,Healed,4/28/2020,3/28/2020,In contact with positive patient
+316,12/20/1960,Non-Intensive care hospitalization,Symptomatic,3/28/2020,Healed,4/11/2020,3/29/2020,Flu symptoms
+317,9/6/1944,Non-Intensive care hospitalization,Symptomatic,3/26/2020,Deceased,4/1/2020,3/29/2020,Flu symptoms
+318,3/13/2000,Home isolation,Symptomatic,3/23/2020,Healed,4/20/2020,3/29/2020,Flu symptoms
+319,11/21/1946,Non-Intensive care hospitalization,Symptomatic,3/24/2020,Healed,5/7/2020,3/29/2020,Interstitial pneumonia
+320,5/3/1980,Non-Intensive care hospitalization,Symptomatic,3/5/2020,Healed,5/7/2020,3/29/2020,Flu symptoms
+321,8/22/1968,Home isolation,Symptomatic,3/21/2020,Healed,4/23/2020,3/29/2020,Healthcare worker - contact with positive patient
+322,8/17/1982,Home isolation,Symptomatic,3/29/2020,Healed,4/20/2020,3/29/2020,Healthcare worker - contact with positive patient
+323,9/27/1991,Home isolation,Asymptomatic,NA,Healed,5/4/2020,3/29/2020,Healthcare worker - contact with positive patient
+324,10/16/1990,Home isolation,Symptomatic,3/28/2020,Healed,5/2/2020,3/29/2020,Healthcare worker - contact with positive patient
+325,9/7/1978,Home isolation,Asymptomatic,NA,Healed,5/11/2020,3/29/2020,Healthcare worker - contact with positive patient
+326,4/25/1974,Home isolation,Symptomatic,3/30/2020,Healed,4/21/2020,3/29/2020,Healthcare worker - contact with positive patient
+327,6/20/1957,Non-Intensive care hospitalization,Symptomatic,3/28/2020,Healed,4/17/2020,3/29/2020,In contact with positive patient
+328,8/30/1943,Home isolation,Symptomatic,3/22/2020,Healed,4/23/2020,3/29/2020,In contact with positive patient
+329,3/23/1968,Home isolation,Symptomatic,3/19/2020,Healed,4/25/2020,3/29/2020,Flu symptoms
+330,11/11/1964,Home isolation,Symptomatic,3/21/2020,Healed,4/26/2020,3/29/2020,Flu symptoms
+331,6/13/1978,Home isolation,Symptomatic,3/29/2020,Healed,5/7/2020,3/29/2020,In contact with positive patient
+332,4/4/1940,Non-Intensive care hospitalization,Symptomatic,3/29/2020,Healed,5/28/2020,3/29/2020,Flu symptoms
+333,5/14/1937,Non-Intensive care hospitalization,Symptomatic,3/28/2020,Healed,5/9/2020,3/29/2020,Flu symptoms
+334,1/3/1988,Home isolation,Symptomatic,4/1/2020,Healed,4/15/2020,3/29/2020,Healthcare worker In contact with positive patient
+335,1/20/1957,Home isolation,Symptomatic,3/26/2020,Healed,4/26/2020,3/29/2020,Flu symptoms
+336,7/7/1989,Home isolation,Symptomatic,3/26/2020,Healed,4/20/2020,3/29/2020,Interstitial pneumonia
+337,10/25/1946,Non-Intensive care hospitalization,Symptomatic,3/16/2020,Deceased,3/30/2020,3/29/2020,Heart failure
+338,1/20/1964,Home isolation,Asymptomatic,NA,Healed,5/4/2020,3/29/2020,Healthcare worker
+339,12/7/1956,Home isolation,Symptomatic,3/30/2020,Healed,4/21/2020,3/30/2020,Healthcare worker
+340,8/19/1964,Home isolation,Symptomatic,3/21/2020,Healed,5/5/2020,3/30/2020,Interstitial pneumonia
+341,8/17/1947,Non-Intensive care hospitalization,Symptomatic,3/28/2020,Deceased,4/3/2020,3/30/2020,Interstitial pneumonia  - past pathologies
+342,2/16/1937,Non-Intensive care hospitalization,Symptomatic,3/4/2020,Deceased,4/25/2020,3/30/2020,Interstitial pneumonia - Died at the hospital
+343,7/19/1933,Non-Intensive care hospitalization,Symptomatic,3/29/2020,Deceased,5/14/2020,3/30/2020,Died at the hospital
+344,4/16/1967,Home isolation,Symptomatic,3/30/2020,Healed,4/15/2020,3/30/2020,Flu symptoms
+345,3/19/1942,Non-Intensive care hospitalization,Symptomatic,3/29/2020,Healed,5/12/2020,3/30/2020,Interstitial pneumonia
+346,3/1/1971,Home isolation,Symptomatic,3/19/2020,Healed,5/15/2020,3/30/2020,In contact with positive patient
+347,4/1/1958,Home isolation,Symptomatic,3/27/2020,Healed,4/25/2020,3/30/2020,In contact with positive patient
+348,3/6/1966,Home isolation,Symptomatic,3/30/2020,Healed,4/26/2020,3/30/2020,Flu symptoms
+349,2/18/1976,Home isolation,Symptomatic,3/29/2020,Healed,4/22/2020,3/30/2020,In contact with positive patient
+350,12/30/1963,Home isolation,Symptomatic,3/30/2020,Healed,5/7/2020,3/30/2020,Flu symptoms
+351,11/28/1936,Home isolation,Symptomatic,3/29/2020,Healed,7/21/2020,3/30/2020,Hospitalized on 06/29/2020 - Tested positive on 07/02/2020
+352,5/30/1959,Home isolation,Symptomatic,3/28/2020,Healed,4/24/2020,3/30/2020,Flu symptoms
+353,4/3/1957,Home isolation,Symptomatic,3/17/2020,Healed,4/24/2020,3/30/2020,Flu symptoms
+354,12/13/1965,Home isolation,Symptomatic,3/28/2020,Disease in progress,7/10/2020,3/30/2020,Heald covid patient on 05/08/2020 in contact with positive patient (daughter) 06/29 and tested again postive on 07/09/2020
+355,9/1/1972,Home isolation,Symptomatic,3/29/2020,Healed,4/20/2020,3/30/2020,Flu symptoms
+356,10/26/1989,Home isolation,Asymptomatic,NA,Healed,5/14/2020,3/31/2020,Healthcare worker In contact with positive patient
+357,2/12/1964,Home isolation,Symptomatic,3/30/2020,Healed,5/7/2020,3/31/2020,Healthcare worker In contact with positive patient
+358,6/9/1974,Home isolation,Asymptomatic,NA,Healed,4/16/2020,3/31/2020,Healthcare worker In contact with positive patient
+359,8/29/1932,Non-Intensive care hospitalization,Symptomatic,3/30/2020,Healed,6/11/2020,3/31/2020,Flu symptoms
+360,3/31/1945,Non-Intensive care hospitalization,Symptomatic,3/29/2020,Healed,5/18/2020,3/31/2020,Flu symptoms
+361,1/18/1939,Non-Intensive care hospitalization,Symptomatic,3/17/2020,Deceased,4/5/2020,3/31/2020,Interstitial pneumonia  - past pathologies
+362,2/26/1951,Non-Intensive care hospitalization,Symptomatic,3/30/2020,Healed,5/9/2020,3/31/2020,Flu symptoms
+363,1/29/1973,Home isolation,Symptomatic,3/27/2020,Healed,4/28/2020,3/31/2020,Flu symptoms
+364,12/16/1956,Home isolation,Symptomatic,3/7/2020,Healed,NA,3/31/2020,Interstitial pneumonia
+365,7/25/1982,Non-Intensive care hospitalization,Symptomatic,3/31/2020,Healed,4/17/2020,4/1/2020,Interstitial pneumonia
+366,6/2/1948,Non-Intensive care hospitalization,Symptomatic,3/31/2020,Healed,4/30/2020,4/1/2020,In contact with positive patient
+367,5/19/1934,Non-Intensive care hospitalization,Symptomatic,3/30/2020,Deceased,5/23/2020,4/1/2020,Flu symptoms - Died at the hospital
+368,4/3/1969,Home isolation,Symptomatic,3/29/2020,Healed,5/7/2020,4/1/2020,Interstitial pneumonia
+369,11/17/1933,Non-Intensive care hospitalization,Symptomatic,3/8/2020,Deceased,4/19/2020,4/2/2020,Interstitial pneumonia and other sever past pathologies
+370,2/9/1950,Non-Intensive care hospitalization,Symptomatic,3/20/2020,Healed,4/28/2020,4/2/2020,Flu symptoms
+371,2/7/1953,Non-Intensive care hospitalization,Symptomatic,3/17/2020,Deceased,4/23/2020,4/2/2020,Flu symptoms - Died at the hospital
+372,5/16/1967,Home isolation,Symptomatic,3/31/2020,Healed,5/1/2020,4/2/2020,Flu symptoms
+373,12/31/1988,Non-Intensive care hospitalization,Symptomatic,3/27/2020,Healed,4/27/2020,4/2/2020,Flu symptoms
+374,3/11/1957,Home isolation,Symptomatic,3/21/2020,Healed,4/28/2020,4/2/2020,In contact with positive patient
+375,9/25/1926,Non-Intensive care hospitalization,Symptomatic,3/31/2020,Deceased,5/2/2020,4/2/2020,Interstitial pneumonia
+376,6/18/1958,Non-Intensive care hospitalization,Symptomatic,3/27/2020,Healed,4/25/2020,4/2/2020,Flu symptoms
+377,6/2/1971,Home isolation,Symptomatic,4/1/2020,Healed,5/5/2020,4/2/2020,Healthcare worker In contact with positive patient
+378,5/20/1968,Home isolation,Symptomatic,4/1/2020,Healed,4/25/2020,4/2/2020,Healthcare worker In contact with positive patient
+379,10/14/1934,Home isolation,Asymptomatic,NA,Healed,6/16/2020,4/2/2020,In contact with positive patient
+380,5/10/1926,Non-Intensive care hospitalization,Asymptomatic,NA,Deceased,4/12/2020,4/2/2020,In contact with positive patient
+381,7/10/1959,Home isolation,Symptomatic,4/1/2020,Healed,5/23/2020,4/2/2020,In contact with positive patient
+382,3/14/1966,Home isolation,Symptomatic,4/1/2020,Healed,4/25/2020,4/2/2020,In contact with positive patient
+383,12/11/1975,Home isolation,Asymptomatic,NA,Healed,5/16/2020,4/2/2020,In contact with positive patient
+384,1/13/1963,Home isolation,Asymptomatic,NA,Healed,5/2/2020,4/2/2020,In contact with positive patient
+385,10/19/1961,Home isolation,Symptomatic,4/1/2020,Healed,4/29/2020,4/2/2020,In contact with positive patient
+386,11/5/1989,Home isolation,Symptomatic,4/1/2020,Disease in progress,5/7/2020,4/2/2020,Healthcare worker - Tested positive again 07/29/2020
+387,10/15/1990,Home isolation,Symptomatic,4/1/2020,Healed,5/16/2020,4/2/2020,In contact with positive patient
+388,1/11/1967,Home isolation,Asymptomatic,NA,Healed,4/24/2020,4/2/2020,In contact with positive patient
+389,11/29/1979,Home isolation,Symptomatic,4/1/2020,Healed,5/14/2020,4/2/2020,In contact with positive patient
+390,11/10/1956,Home isolation,Asymptomatic,NA,Healed,5/20/2020,4/2/2020,In contact with positive patient
+391,11/12/1963,Home isolation,Asymptomatic,NA,Healed,5/20/2020,4/2/2020,In contact with positive patient
+392,6/5/1997,Home isolation,Asymptomatic,NA,Healed,5/2/2020,4/2/2020,In contact with positive patient
+393,9/24/1973,Home isolation,Symptomatic,4/1/2020,Healed,4/22/2020,4/2/2020,In contact with positive patient
+394,6/17/1915,Home isolation,Symptomatic,3/30/2020,Healed,6/5/2020,4/2/2020,In contact with positive patient
+395,8/22/1943,Home isolation,Symptomatic,3/30/2020,Healed,6/16/2020,4/2/2020,In contact with positive patient
+396,2/25/1925,Home isolation,Symptomatic,3/30/2020,Deceased,4/16/2020,4/2/2020,Died at the hospital - Heart failure
+397,12/17/1929,Home isolation,Symptomatic,3/30/2020,Healed,6/16/2020,4/2/2020,In contact with positive patient
+398,1/20/1933,Home isolation,Symptomatic,3/30/2020,Deceased,4/28/2020,4/2/2020,Died at the hospital - Guest of a retirement house
+399,5/5/1926,Home isolation,Symptomatic,3/30/2020,Healed,6/16/2020,4/2/2020,In contact with positive patient
+400,6/9/1946,Home isolation,Symptomatic,3/30/2020,Healed,5/14/2020,4/2/2020,In contact with positive patient
+401,3/13/1931,Home isolation,Symptomatic,3/30/2020,Healed,5/20/2020,4/2/2020,In contact with positive patient
+402,1/11/1935,Home isolation,Symptomatic,3/30/2020,Healed,6/16/2020,4/2/2020,In contact with positive patient
+403,2/14/1931,Home isolation,Symptomatic,3/30/2020,Healed,6/16/2020,4/2/2020,In contact with positive patient
+404,6/13/1936,Non-Intensive care hospitalization,Symptomatic,3/30/2020,Deceased,4/6/2020,4/2/2020,Interstitial pneumonia - past pathologies
+405,5/4/1956,Home isolation,Symptomatic,3/30/2020,Healed,6/18/2020,4/2/2020,In contact with positive patient
+406,9/11/2002,Home isolation,Symptomatic,3/23/2020,Healed,4/27/2020,4/2/2020,In contact with positive patient
+407,5/24/1953,Non-Intensive care hospitalization,Symptomatic,3/29/2020,Healed,4/25/2020,4/2/2020,In contact with positive patient
+408,2/7/1939,Home isolation,Asymptomatic,NA,Healed,4/30/2020,4/2/2020,In contact with positive patient
+409,5/30/1936,Non-Intensive care hospitalization,Symptomatic,3/28/2020,Deceased,4/17/2020,4/2/2020,Died at the hospital - Interstitial pneumonia
+410,6/21/1993,Home isolation,Asymptomatic,NA,Healed,5/3/2020,4/2/2020,Healthcare worker
+411,2/22/1982,Home isolation,Symptomatic,3/31/2020,Healed,4/30/2020,4/2/2020,In contact with positive patient
+412,4/1/1935,Home isolation,Symptomatic,3/29/2020,Deceased,5/19/2020,4/2/2020,In contact with positive patient - Died at the hospital
+413,1/1/2016,Home isolation,Symptomatic,3/30/2020,Healed,5/1/2020,4/2/2020,In contact with positive patient
+414,5/18/1932,Home isolation,Symptomatic,3/30/2020,Healed,6/16/2020,4/2/2020,In contact with positive patient
+415,6/29/1984,Home isolation,Symptomatic,4/1/2020,Healed,5/7/2020,4/2/2020,Healthcare worker
+416,1/4/1930,Home isolation,Symptomatic,3/29/2020,Healed,6/23/2020,4/2/2020,In contact with positive patient
+417,3/31/1940,Home isolation,Symptomatic,3/28/2020,Healed,6/16/2020,4/2/2020,In contact with positive patient
+418,10/2/1932,Home isolation,Symptomatic,3/29/2020,Deceased,4/25/2020,4/2/2020,Died at the hospital for encephalopathy and interstitial pneumonia
+419,2/15/1926,Home isolation,Symptomatic,3/28/2020,Healed,6/16/2020,4/2/2020,In contact with positive patient
+420,11/18/1993,Home isolation,Symptomatic,3/30/2020,Healed,5/2/2020,4/2/2020,Flu symptoms
+421,2/4/1964,Home isolation,Symptomatic,3/30/2020,Healed,5/2/2020,4/2/2020,In contact with positive patient
+422,3/9/1961,Home isolation,Symptomatic,3/30/2020,Healed,3/7/2020,4/2/2020,In contact with positive patient
+423,1/22/1983,Home isolation,Asymptomatic,NA,Healed,4/26/2020,4/2/2020,In contact with positive patient
+424,11/20/1975,Home isolation,Symptomatic,3/31/2020,Healed,5/12/2020,4/2/2020,In contact with positive patient
+425,5/12/1982,Home isolation,Asymptomatic,NA,Healed,5/2/2020,4/2/2020,In contact with positive patient
+426,7/24/1940,Home isolation,Symptomatic,3/24/2020,Healed,5/4/2020,4/2/2020,In contact with positive patient
+427,2/17/1975,Home isolation,Symptomatic,3/26/2020,Healed,5/7/2020,4/2/2020,In contact with positive patient
+428,1/23/1925,Home isolation,Symptomatic,3/30/2020,Deceased,4/13/2020,4/2/2020,In contact with positive patient
+429,2/15/1927,Home isolation,Symptomatic,3/30/2020,Healed,5/14/2020,4/2/2020,In contact with positive patient
+430,1/1/1930,Home isolation,Symptomatic,3/29/2020,Healed,5/14/2020,4/2/2020,In contact with positive patient
+431,9/19/1933,Home isolation,Symptomatic,3/31/2020,Deceased,4/15/2020,4/2/2020,"Interstitial pneumonia, acute kidney failure"
+432,8/6/1932,Home isolation,Symptomatic,3/31/2020,Deceased,4/17/2020,4/2/2020,Died at the hospital - Guest of a retirement house
+433,10/15/1993,Home isolation,Asymptomatic,NA,Healed,5/6/2020,4/2/2020,In contact with positive patient
+434,3/28/1960,Home isolation,Asymptomatic,NA,Healed,5/14/2020,4/2/2020,In contact with positive patient
+435,2/28/1928,Home isolation,Symptomatic,3/27/2020,Healed,5/14/2020,4/2/2020,In contact with positive patient
+436,5/6/1942,Home isolation,Symptomatic,3/31/2020,Healed,5/14/2020,4/2/2020,In contact with positive patient
+437,3/4/1931,Home isolation,Symptomatic,4/30/2020,Healed,5/14/2020,4/2/2020,In contact with positive patient
+438,7/18/1973,Home isolation,Symptomatic,4/15/2020,Healed,5/23/2020,4/2/2020,In contact with positive patient
+439,8/24/1964,Home isolation,Symptomatic,3/30/2020,Healed,5/22/2020,4/2/2020,In contact with positive patient
+440,12/15/1945,Home isolation,Symptomatic,3/30/2020,Healed,5/11/2020,4/2/2020,In contact with positive patient
+441,12/1/1922,Home isolation,Symptomatic,3/29/2020,Healed,6/16/2020,4/2/2020,In contact with positive patient
+442,3/14/1937,Home isolation,Symptomatic,3/30/2020,Healed,5/7/2020,4/2/2020,In contact with positive patient
+443,4/26/1928,Home isolation,Symptomatic,3/30/2020,Healed,5/15/2020,4/2/2020,In contact with positive patient
+444,7/16/1973,Home isolation,Symptomatic,4/3/2020,Healed,4/28/2020,4/2/2020,In contact with positive patient
+445,2/2/1972,Home isolation,Symptomatic,4/1/2020,Healed,5/15/2020,4/2/2020,In contact with positive patient
+446,6/20/1935,Home isolation,Symptomatic,3/30/2020,Healed,5/14/2020,4/2/2020,In contact with positive patient
+447,3/4/1937,Home isolation,Symptomatic,3/29/2020,Healed,5/14/2020,4/2/2020,In contact with positive patient
+448,4/11/1920,Home isolation,Symptomatic,3/27/2020,Healed,5/14/2020,4/2/2020,In contact with positive patient
+449,10/22/1952,Home isolation,Symptomatic,3/30/2020,Healed,5/14/2020,4/2/2020,In contact with positive patient
+450,5/11/1925,Home isolation,Symptomatic,3/29/2020,Healed,5/14/2020,4/2/2020,In contact with positive patient
+451,11/12/1927,Home isolation,Symptomatic,3/30/2020,Healed,5/14/2020,4/2/2020,In contact with positive patient
+452,4/17/1974,Home isolation,Symptomatic,3/23/2020,Healed,5/18/2020,4/3/2020,In contact with positive patient
+453,3/13/1938,Non-Intensive care hospitalization,Symptomatic,3/30/2020,Disease in progress,8/7/2020,8/7/2020,Guest of a retirement house tested positive on 06/18 already tested on 08/07 for fever
+454,1/13/1934,Non-Intensive care hospitalization,Symptomatic,3/25/2020,Deceased,5/24/2020,4/3/2020,Interstitial pneumonia - Died at the hospital
+455,6/13/1960,Home isolation,Symptomatic,3/30/2020,Healed,6/12/2020,4/3/2020,In contact with positive patient
+456,12/6/1938,Non-Intensive care hospitalization,Symptomatic,3/11/2020,Healed,6/23/2020,4/3/2020,Tested positive after being declared healed
+457,11/12/1944,Non-Intensive care hospitalization,Symptomatic,4/1/2020,Deceased,5/3/2020,4/3/2020,In contact with positive patient hospitalized on 04/15/20 - Died for cirrhosis and Interstitial pneumonia
+458,12/13/1970,Home isolation,Asymptomatic,NA,Healed,5/2/2020,4/3/2020,Healthcare worker
+459,8/14/1940,Non-Intensive care hospitalization,Symptomatic,3/30/2020,Healed,4/23/2020,4/3/2020,Flu symptoms
+460,1/20/1986,Home isolation,Symptomatic,3/31/2020,Healed,5/2/2020,4/3/2020,In contact with positive patient
+461,3/16/1934,Non-Intensive care hospitalization,Symptomatic,4/1/2020,Healed,5/11/2020,4/3/2020,Flu symptoms
+462,9/1/1927,Non-Intensive care hospitalization,Symptomatic,4/1/2020,Deceased,4/15/2020,4/3/2020,Interstitial pneumonia - Died at the hospital
+463,2/8/1972,Home isolation,Symptomatic,4/4/2020,Healed,5/2/2020,4/3/2020,Healthcare worker - In contact with positive patient
+464,6/30/1930,Non-Intensive care hospitalization,Symptomatic,3/30/2020,Healed,6/16/2020,4/3/2020,Flu symptoms
+465,5/17/1935,Non-Intensive care hospitalization,Symptomatic,3/31/2020,Deceased,4/23/2020,4/3/2020,Interstitial pneumonia - Died at the hospital
+466,4/24/1950,Home isolation,Symptomatic,3/31/2020,Healed,5/28/2020,4/3/2020,In contact with positive patient
+467,2/11/1992,Home isolation,Symptomatic,3/20/2020,Healed,5/7/2020,4/3/2020,Flu symptoms
+468,1/15/1930,Home isolation,Symptomatic,4/2/2020,Healed,5/14/2020,4/3/2020,In contact with positive patient
+469,2/28/1934,Non-Intensive care hospitalization,Symptomatic,3/30/2020,Deceased,4/9/2020,4/4/2020,Interstitial pneumonia with past pathologies
+470,10/2/1931,Non-Intensive care hospitalization,Symptomatic,3/13/2020,Deceased,5/9/2020,4/4/2020,Interstitial pneumonia and other pathologies - Died at the hospital
+471,3/31/1932,Non-Intensive care hospitalization,Symptomatic,3/23/2020,Deceased,4/26/2020,4/4/2020,Interstitial pneumonia and other pathologies - Died at the hospital
+472,1/25/1933,Non-Intensive care hospitalization,Symptomatic,3/23/2020,Deceased,5/5/2020,4/4/2020,Interstitial pneumonia and other pathologies - Died at the hospital
+473,12/22/1935,Non-Intensive care hospitalization,Symptomatic,3/31/2020,Healed,5/25/2020,4/4/2020,Interstitial pneumonia
+474,6/24/1944,Non-Intensive care hospitalization,Symptomatic,3/24/2020,Deceased,4/25/2020,4/4/2020,Interstitial pneumonia and other pathologies - Died at the hospital
+475,11/20/1937,Non-Intensive care hospitalization,Symptomatic,3/29/2020,Healed,6/16/2020,4/4/2020,Flu symptoms
+476,3/15/1935,Non-Intensive care hospitalization,Symptomatic,3/23/2020,Healed,7/4/2020,4/4/2020,Flu symptoms
+477,3/9/1931,Non-Intensive care hospitalization,Symptomatic,4/3/2020,Deceased,4/10/2020,4/4/2020,Interstitial pneumonia and other pathologies - Died at the hospital
+478,8/9/1929,Non-Intensive care hospitalization,Symptomatic,4/3/2020,Healed,6/11/2020,4/4/2020,Flu symptoms
+479,12/26/1938,Non-Intensive care hospitalization,Symptomatic,4/3/2020,Deceased,4/17/2020,4/4/2020,Flu symptoms-Died at the hospital
+480,9/27/1933,Non-Intensive care hospitalization,Symptomatic,3/28/2020,Healed,4/15/2020,4/4/2020,Flu symptoms
+481,6/18/1970,Non-Intensive care hospitalization,Symptomatic,3/31/2020,Healed,5/5/2020,4/4/2020,Flu symptoms
+482,3/22/1963,Home isolation,Symptomatic,3/29/2020,Healed,5/2/2020,4/4/2020,Flu symptoms
+483,4/15/1985,Home isolation,Symptomatic,3/30/2020,Healed,5/25/2020,4/4/2020,Flu symptoms
+484,7/21/1931,Home isolation,Symptomatic,4/3/2020,Healed,5/14/2020,4/4/2020,Flu symptoms
+485,6/16/1935,Home isolation,Symptomatic,4/2/2020,Healed,5/14/2020,4/4/2020,In contact with positive patient
+486,7/8/1990,Home isolation,Asymptomatic,NA,Healed,4/27/2020,4/5/2020,Healthcare worker
+487,4/13/1968,Home isolation,Asymptomatic,NA,Healed,4/28/2020,4/5/2020,Healthcare worker
+488,3/4/1984,Home isolation,Asymptomatic,NA,Healed,5/11/2020,4/5/2020,Healthcare worker
+489,11/12/1950,Non-Intensive care hospitalization,Asymptomatic,NA,Healed,6/1/2020,4/5/2020,ROUTINE test AFTER DISCHARGE
+490,8/24/1970,Home isolation,Asymptomatic,NA,Healed,5/5/2020,4/5/2020,In contact with positive patient - Healthcare worker in retirement home
+491,12/7/1966,Home isolation,Symptomatic,3/31/2020,Healed,5/2/2020,4/6/2020,Healthcare worker
+492,12/9/1981,Home isolation,Asymptomatic,NA,Disease in progress,NA,4/6/2020,"Healthcare worker - Tested negative, not to be taken into account"
+493,10/6/2004,Home isolation,Symptomatic,3/25/2020,Healed,5/18/2020,4/6/2020,In contact with positive patient
+494,8/29/1970,Home isolation,Symptomatic,4/1/2020,Healed,5/18/2020,4/6/2020,In contact with positive patient
+495,2/1/2010,Home isolation,Symptomatic,3/24/2020,Healed,5/18/2020,4/6/2020,In contact with positive patient
+496,1/3/1986,Home isolation,Symptomatic,4/4/2020,Healed,6/4/2020,4/6/2020,In contact with positive patient
+497,3/20/1936,Non-Intensive care hospitalization,Symptomatic,3/23/2020,Deceased,4/29/2020,4/6/2020,Interstitial pneumonia - Died at the hospital
+498,2/5/1931,Non-Intensive care hospitalization,Symptomatic,3/30/2020,Healed,5/16/2020,4/6/2020,Flu symptoms
+499,3/27/1961,Home isolation,Symptomatic,4/2/2020,Healed,5/8/2020,4/6/2020,Flu symptoms
+500,10/1/1936,Non-Intensive care hospitalization,Symptomatic,3/24/2020,Deceased,4/16/2020,4/6/2020,Died at the hospital - respiratory failure
+501,3/2/1929,Non-Intensive care hospitalization,Symptomatic,3/3/2020,Deceased,4/8/2020,4/6/2020,Interstitial pneumonia
+502,6/16/1991,Home isolation,Symptomatic,4/4/2020,Healed,5/22/2020,4/6/2020,Flu symptoms
+503,1/18/1982,Home isolation,Symptomatic,3/21/2020,Healed,4/29/2020,4/6/2020,In contact with positive patient
+504,10/30/1942,Non-Intensive care hospitalization,Symptomatic,3/27/2020,Healed,5/14/2020,4/6/2020,Flu symptoms
+505,9/27/1937,Non-Intensive care hospitalization,Symptomatic,3/27/2020,Deceased,4/19/2020,4/6/2020,Died at the hospital - Interstitial pneumonia
+506,1/5/1968,Home isolation,Symptomatic,4/1/2020,Healed,5/11/2020,4/6/2020,Interstitial pneumonia
+507,9/21/1982,Home isolation,Asymptomatic,NA,Healed,4/25/2020,4/6/2020,Healthcare worker
+508,4/25/1983,Home isolation,Symptomatic,4/4/2020,Healed,4/25/2020,4/6/2020,In contact with positive patient
+509,9/25/1957,Home isolation,Asymptomatic,NA,Healed,5/11/2020,4/6/2020,CHealthcare worker
+510,6/2/1960,Non-Intensive care hospitalization,Symptomatic,2/20/2020,Deceased,4/3/2020,4/6/2020,"Respiratory failure, heart failure"
+511,11/11/1967,Home isolation,Asymptomatic,NA,Healed,4/29/2020,4/6/2020,Healthcare worker
+512,5/10/1962,Home isolation,Symptomatic,4/3/2020,Healed,5/5/2020,4/6/2020,Healthcare worker
+513,11/26/1968,Non-Intensive care hospitalization,Symptomatic,3/29/2020,Healed,5/18/2020,4/6/2020,Flu symptoms
+514,1/22/1927,Non-Intensive care hospitalization,Symptomatic,4/3/2020,Deceased,4/10/2020,4/7/2020,Interstitial pneumonia
+515,3/6/1926,Non-Intensive care hospitalization,Symptomatic,4/5/2020,Deceased,4/11/2020,4/7/2020,In contact with positive patient
+516,9/29/1938,Non-Intensive care hospitalization,Symptomatic,4/4/2020,Healed,5/10/2020,4/7/2020,Flu symptoms
+517,7/4/1964,Non-Intensive care hospitalization,Symptomatic,3/27/2020,Healed,4/21/2020,4/7/2020,In contact with positive patient
+518,9/6/1969,Home isolation,Symptomatic,3/23/2020,Healed,5/2/2020,4/7/2020,In contact with positive patient
+519,3/1/1969,Home isolation,Symptomatic,3/22/2020,Healed,4/20/2020,4/7/2020,In contact with positive patient
+520,5/1/1953,Home isolation,Symptomatic,3/26/2020,Healed,4/29/2020,4/7/2020,In contact with positive patient
+521,10/12/1968,Home isolation,Symptomatic,3/24/2020,Healed,5/4/2020,4/7/2020,In contact with positive patient
+522,3/17/1964,Home isolation,Symptomatic,3/27/2020,Healed,4/26/2020,4/7/2020,In contact with positive patient
+523,11/12/1978,Home isolation,Asymptomatic,NA,Healed,4/25/2020,4/7/2020,Healthcare worker
+524,7/24/1969,Home isolation,Asymptomatic,NA,Healed,4/26/2020,4/7/2020,Healthcare worker
+525,9/12/1984,Home isolation,Symptomatic,3/31/2020,Healed,5/18/2020,4/7/2020,Healthcare worker In contact with positive patient
+526,12/2/1970,Home isolation,Symptomatic,3/30/2020,Healed,5/7/2020,4/7/2020,Healthcare worker In contact with positive patient
+527,10/22/1971,Home isolation,Asymptomatic,NA,Healed,4/21/2020,4/8/2020,Healthcare worker
+528,4/8/1986,Home isolation,Asymptomatic,NA,Healed,4/21/2020,4/8/2020,Healthcare worker
+529,5/3/2004,Non-Intensive care hospitalization,Symptomatic,3/3/2020,Healed,5/23/2020,4/8/2020,Flu symptoms
+530,3/11/1996,Home isolation,Asymptomatic,NA,Healed,4/29/2020,4/8/2020,Healthcare worker
+531,1/2/1992,Home isolation,Asymptomatic,NA,Healed,5/3/2020,4/8/2020,Healthcare worker
+532,11/30/1933,Non-Intensive care hospitalization,Symptomatic,4/3/2020,Healed,4/28/2020,4/8/2020,Flu symptoms
+533,10/3/1967,Home isolation,Asymptomatic,NA,Healed,5/8/2020,4/8/2020,Healthcare worker
+534,10/28/1996,Home isolation,Asymptomatic,NA,Healed,5/9/2020,4/8/2020,Healthcare worker
+535,7/25/1963,Home isolation,Asymptomatic,NA,Healed,4/28/2020,4/8/2020,Healthcare worker
+536,4/3/1950,Non-Intensive care hospitalization,Symptomatic,4/2/2020,Healed,4/23/2020,4/8/2020,Flu symptoms
+537,12/14/1940,Non-Intensive care hospitalization,Symptomatic,3/31/2020,Healed,5/25/2020,4/8/2020,Flu symptoms
+538,9/25/1944,Non-Intensive care hospitalization,Symptomatic,3/31/2020,Healed,4/24/2020,4/8/2020,Interstitial pneumonia
+539,8/17/1966,Home isolation,Asymptomatic,NA,Healed,5/22/2020,4/8/2020,Healthcare worker
+540,8/16/1973,Home isolation,Asymptomatic,NA,Healed,5/2/2020,4/8/2020,Healthcare worker
+541,4/21/1967,Home isolation,Asymptomatic,NA,Healed,4/28/2020,4/8/2020,Healthcare worker
+542,4/15/1969,Home isolation,Asymptomatic,NA,Healed,4/26/2020,4/8/2020,Healthcare worker
+543,11/7/1975,Non-Intensive care hospitalization,Symptomatic,4/5/2020,Healed,5/4/2020,4/8/2020,In contact with positive patient
+544,10/3/2005,Home isolation,Asymptomatic,NA,Healed,5/18/2020,4/9/2020,In contact with positive patient
+545,4/7/1998,Home isolation,Asymptomatic,NA,Healed,5/2/2020,4/9/2020,In contact with positive patient
+546,6/23/1962,Home isolation,Symptomatic,4/2/2020,Healed,5/7/2020,4/9/2020,Healthcare worker In contact with positive patient
+547,2/20/1973,Non-Intensive care hospitalization,Symptomatic,4/6/2020,Healed,4/28/2020,4/9/2020,In contact with positive patient
+548,11/2/1970,Non-Intensive care hospitalization,Symptomatic,4/1/2020,Healed,5/14/2020,4/9/2020,Interstitial pneumonia
+549,6/19/1964,Home isolation,Symptomatic,3/28/2020,Healed,5/7/2020,4/9/2020,Flu symptoms
+550,3/16/1964,Home isolation,Asymptomatic,NA,Healed,5/7/2020,4/9/2020,Healthcare worker
+551,8/6/1979,Home isolation,Symptomatic,3/31/2020,Healed,5/7/2020,4/9/2020,Healthcare worker
+552,4/21/1969,Non-Intensive care hospitalization,Symptomatic,4/7/2020,Healed,5/12/2020,4/9/2020,Healthcare worker
+553,6/15/1938,Non-Intensive care hospitalization,Symptomatic,4/3/2020,Deceased,4/11/2020,4/9/2020,unknown
+554,9/4/1968,Home isolation,Symptomatic,4/1/2020,Healed,5/2/2020,4/9/2020,Healthcare worker In contact with positive patient
+555,1/12/1969,Home isolation,Asymptomatic,NA,Healed,6/18/2020,4/9/2020,Healthcare worker
+556,4/24/1948,Home isolation,Symptomatic,3/30/2020,Healed,5/12/2020,4/9/2020,Flu symptoms
+557,12/16/1980,Home isolation,Symptomatic,3/18/2020,Healed,4/28/2020,4/9/2020,In contact with positive patient
+558,12/30/1934,Non-Intensive care hospitalization,Symptomatic,4/1/2020,Healed,6/18/2020,4/9/2020,Flu symptoms
+559,8/5/1929,Non-Intensive care hospitalization,Symptomatic,3/27/2020,Healed,4/23/2020,4/9/2020,Pneumonia
+560,8/28/1986,Home isolation,Asymptomatic,NA,Healed,4/30/2020,4/9/2020,Healthcare worker
+561,6/24/1998,Home isolation,Symptomatic,4/7/2020,Healed,4/15/2020,4/9/2020,In contact with positive patient
+562,4/18/2017,Home isolation,Symptomatic,3/25/2020,Healed,4/30/2020,4/9/2020,In contact with positive patient
+563,9/2/1992,Home isolation,Asymptomatic,NA,Healed,5/8/2020,4/9/2020,Healthcare worker
+564,8/6/1935,Intensive care,Symptomatic,4/4/2020,Deceased,4/12/2020,4/9/2020,unknown
+565,5/8/1936,Non-Intensive care hospitalization,Symptomatic,4/6/2020,Deceased,4/22/2020,4/9/2020,Died at the hospital - Pneumonia
+566,8/29/1963,Non-Intensive care hospitalization,Symptomatic,4/6/2020,Healed,5/3/2020,4/9/2020,Flu symptoms
+567,10/28/1924,Non-Intensive care hospitalization,Symptomatic,4/4/2020,Deceased,6/5/2020,4/9/2020,Died at the hospital for Interstitial pneumonia and heart failure
+568,5/9/1984,Home isolation,Asymptomatic,NA,Healed,4/30/2020,4/9/2020,Healthcare worker
+569,3/7/1987,Home isolation,Symptomatic,4/2/2020,Healed,4/29/2020,4/10/2020,Healthcare worker In contact with positive patient
+570,11/21/1974,Home isolation,Symptomatic,4/2/2020,Healed,5/14/2020,4/10/2020,Flu symptoms
+571,5/7/1976,Home isolation,Asymptomatic,NA,Healed,5/21/2020,4/10/2020,Healthcare worker
+572,12/13/1940,Non-Intensive care hospitalization,Symptomatic,4/7/2020,Deceased,4/25/2020,4/10/2020,Deceased at the hospital Interstitial pneumonia
+573,7/15/1973,Non-Intensive care hospitalization,Symptomatic,4/3/2020,Healed,5/2/2020,4/11/2020,Flu symptoms
+574,6/26/1938,Non-Intensive care hospitalization,Symptomatic,3/13/2020,Deceased,5/28/2020,4/11/2020,Flu symptoms - Deceased at the hospital
+575,6/8/1940,Non-Intensive care hospitalization,Symptomatic,4/5/2020,Healed,5/11/2020,4/11/2020,Flu symptoms
+576,11/16/1929,Non-Intensive care hospitalization,Symptomatic,4/4/2020,Deceased,4/12/2020,4/11/2020,unknown
+577,3/17/1982,Non-Intensive care hospitalization,Symptomatic,3/30/2020,Healed,5/8/2020,4/11/2020,Flu symptoms
+578,6/26/1951,Home isolation,Symptomatic,3/30/2020,Healed,4/15/2020,4/11/2020,Flu symptoms
+579,9/13/1992,Home isolation,Asymptomatic,NA,Healed,4/30/2020,4/11/2020,Healthcare worker
+580,2/9/1960,Home isolation,Asymptomatic,NA,Healed,5/7/2020,4/11/2020,Healthcare worker
+581,7/25/1932,Non-Intensive care hospitalization,Symptomatic,4/4/2020,Deceased,4/13/2020,4/11/2020,Interstitial pneumonia
+582,3/12/1929,Home isolation,Symptomatic,4/10/2020,Healed,6/18/2020,4/11/2020,In contact with positive patient
+583,2/24/1929,Non-Intensive care hospitalization,Symptomatic,4/2/2020,Healed,6/18/2020,4/11/2020,Interstitial pneumonia
+584,1/11/1939,Non-Intensive care hospitalization,Symptomatic,3/24/2020,Healed,6/18/2020,4/11/2020,Interstitial pneumonia
+585,8/23/1965,Non-Intensive care hospitalization,Asymptomatic,NA,Healed,4/28/2020,4/11/2020,Healthcare worker
+586,6/9/1995,Home isolation,Asymptomatic,NA,Healed,5/19/2020,4/11/2020,Healthcare worker
+587,4/6/1959,Home isolation,Symptomatic,4/8/2020,Healed,5/7/2020,4/12/2020,Flu symptoms
+588,7/25/1950,Non-Intensive care hospitalization,Symptomatic,4/5/2020,Healed,5/4/2020,4/12/2020,Flu symptoms
+589,8/28/1957,Non-Intensive care hospitalization,Symptomatic,3/12/2020,Healed,5/8/2020,4/12/2020,Interstitial pneumonia
+590,2/16/1985,Home isolation,Symptomatic,3/31/2020,Healed,5/12/2020,4/12/2020,Flu symptoms
+591,9/15/1933,Non-Intensive care hospitalization,Symptomatic,3/25/2020,Deceased,4/4/2020,4/12/2020,Flu symptoms
+592,12/1/1973,Non-Intensive care hospitalization,Symptomatic,3/1/2020,Healed,5/16/2020,4/12/2020,Flu symptoms
+593,3/21/1951,Non-Intensive care hospitalization,Symptomatic,4/2/2020,Healed,4/30/2020,4/12/2020,Flu symptoms
+594,7/25/1952,Non-Intensive care hospitalization,Symptomatic,4/4/2020,Healed,5/21/2020,4/12/2020,Flu symptoms
+595,12/8/1939,Non-Intensive care hospitalization,Symptomatic,4/7/2020,Healed,5/17/2020,4/12/2020,Flu symptoms
+596,3/8/1932,Non-Intensive care hospitalization,Symptomatic,3/31/2020,Healed,6/5/2020,4/12/2020,Flu symptoms
+597,10/22/1925,Non-Intensive care hospitalization,Symptomatic,4/4/2020,Healed,5/17/2020,4/12/2020,Flu symptoms
+598,10/10/1932,Non-Intensive care hospitalization,Symptomatic,4/7/2020,Healed,5/15/2020,4/12/2020,Flu symptoms
+599,11/24/1948,Non-Intensive care hospitalization,Symptomatic,4/6/2020,Healed,6/1/2020,4/12/2020,Flu symptoms
+600,5/5/1924,Non-Intensive care hospitalization,Symptomatic,4/3/2020,Deceased,4/12/2020,4/12/2020,unknown
+601,5/16/1992,Home isolation,Symptomatic,4/11/2020,Healed,5/7/2020,4/12/2020,Healthcare worker in retirement home
+602,3/20/2000,Home isolation,Asymptomatic,4/11/2020,Healed,5/3/2020,4/12/2020,Healthcare worker in retirement home
+603,6/8/1971,Home isolation,Symptomatic,4/11/2020,Healed,5/7/2020,4/12/2020,Flu symptoms
+604,9/17/1935,Non-Intensive care hospitalization,Symptomatic,4/5/2020,Deceased,6/9/2020,4/12/2020,Flu symptoms - Deceased at the hospital
+605,10/27/1994,Home isolation,Symptomatic,3/26/2020,Healed,5/7/2020,4/12/2020,Flu symptoms
+606,12/21/1958,Home isolation,Asymptomatic,4/11/2020,Healed,5/2/2020,4/12/2020,Healthcare worker
+607,11/27/1994,Home isolation,Asymptomatic,4/11/2020,Healed,6/3/2020,4/12/2020,In contact with positive patient
+608,4/5/1926,Non-Intensive care hospitalization,Symptomatic,4/6/2020,Healed,5/14/2020,4/12/2020,Flu symptoms
+609,4/25/1926,Non-Intensive care hospitalization,Symptomatic,4/6/2020,Deceased,4/30/2020,4/12/2020,Flu symptoms - Died at the hospital
+610,12/7/1942,Non-Intensive care hospitalization,Symptomatic,4/6/2020,Healed,4/25/2020,4/12/2020,Flu symptoms
+611,5/24/1927,Non-Intensive care hospitalization,Symptomatic,4/6/2020,Deceased,4/23/2020,4/12/2020,Died at the hospital - Past pathologies and pneumonia
+612,2/2/1932,Non-Intensive care hospitalization,Symptomatic,4/6/2020,Healed,4/25/2020,4/12/2020,Flu symptoms
+613,9/4/1931,Non-Intensive care hospitalization,Symptomatic,4/6/2020,Healed,4/30/2020,4/12/2020,Flu symptoms
+614,3/16/1978,Home isolation,Symptomatic,4/11/2020,Healed,5/27/2020,4/12/2020,In contact with positive patient
+615,7/31/1960,Home isolation,Symptomatic,4/10/2020,Healed,5/2/2020,4/12/2020,Healthcare worker
+616,3/27/1946,Home isolation,Symptomatic,4/10/2020,Healed,5/6/2020,4/12/2020,In contact with positive patient
+617,8/18/1966,Home isolation,Symptomatic,4/11/2020,Healed,5/2/2020,4/12/2020,In contact with positive patient
+618,12/6/1961,Home isolation,Asymptomatic,NA,Healed,4/28/2020,4/12/2020,Healthcare worker
+619,12/13/1966,Home isolation,Symptomatic,4/11/2020,Healed,4/28/2020,4/12/2020,Healthcare worker
+620,11/11/1937,Non-Intensive care hospitalization,Symptomatic,4/8/2020,Deceased,4/12/2020,4/12/2020,Respiratory and heart failure
+621,9/13/1947,Non-Intensive care hospitalization,Symptomatic,4/10/2020,Deceased,4/19/2020,4/13/2020,Deceased at the hospital - from a retirement house
+622,11/8/1995,Non-Intensive care hospitalization,Symptomatic,4/11/2020,Healed,5/27/2020,4/13/2020,Flu symptoms
+623,7/5/1935,Non-Intensive care hospitalization,Symptomatic,4/1/2020,Deceased,4/10/2020,4/14/2020,"Severe dyspnea, terminal renal failure, irreversible cardiovascular respiratory failure"
+624,10/19/1940,Non-Intensive care hospitalization,Symptomatic,4/3/2020,Healed,5/18/2020,4/14/2020,Flu symptoms
+625,7/23/1938,Non-Intensive care hospitalization,Symptomatic,4/6/2020,Healed,5/14/2020,4/14/2020,In contact with positive patient
+626,6/13/1975,Non-Intensive care hospitalization,Symptomatic,4/6/2020,Healed,5/18/2020,4/14/2020,In contact with positive patient
+627,11/13/1944,Non-Intensive care hospitalization,Symptomatic,3/31/2020,Healed,5/3/2020,4/14/2020,Flu symptoms
+628,7/29/1922,Non-Intensive care hospitalization,Symptomatic,4/10/2020,Deceased,4/11/2020,4/14/2020,In contact with positive patient
+629,12/11/1939,Non-Intensive care hospitalization,Symptomatic,3/27/2020,Healed,4/27/2020,4/14/2020,Flu symptoms
+630,6/15/1963,Home isolation,Symptomatic,4/1/2020,Healed,5/12/2020,4/14/2020,Healthcare worker - In contact with positive patient
+631,3/24/1967,Home isolation,Asymptomatic,NA,Healed,5/23/2020,4/14/2020,Healthcare worker
+632,4/6/1963,Home isolation,Symptomatic,4/10/2020,Healed,6/6/2020,4/14/2020,Healthcare worker In contact with positive patient
+633,9/16/2000,Home isolation,Symptomatic,4/9/2020,Healed,5/15/2020,4/14/2020,In contact with positive patient
+634,7/20/1996,Home isolation,Symptomatic,4/9/2020,Healed,5/12/2020,4/14/2020,In contact with positive patient
+635,1/16/1993,Home isolation,Symptomatic,4/9/2020,Healed,5/8/2020,4/14/2020,Flu symptoms
+636,1/12/1974,Home isolation,Symptomatic,3/23/2020,Healed,5/25/2020,4/14/2020,Interstitial pneumonia
+637,11/14/1944,Non-Intensive care hospitalization,Symptomatic,3/24/2020,Healed,5/8/2020,4/14/2020,In contact with positive patient
+638,5/30/1933,Non-Intensive care hospitalization,Symptomatic,4/3/2020,Deceased,5/1/2020,4/14/2020,"Hospitalized on 04/13 Respiratory failure, Interstitial pneumonia"
+639,2/4/1928,Non-Intensive care hospitalization,Symptomatic,3/26/2020,Deceased,4/14/2020,4/14/2020,Septic shock and renal failure
+640,8/9/1971,Home isolation,Symptomatic,4/2/2020,Healed,5/11/2020,4/14/2020,Flu symptoms
+641,12/9/1940,Non-Intensive care hospitalization,Symptomatic,4/2/2020,Healed,5/8/2020,4/15/2020,Flu symptoms
+642,4/23/1956,Home isolation,Symptomatic,4/6/2020,Healed,4/15/2020,4/15/2020,In contact with positive patient
+643,1/28/1930,Non-Intensive care hospitalization,Symptomatic,4/7/2020,Deceased,4/22/2020,4/15/2020,Deceased at the hospital - resident of a retirement house Interstitial pneumonia
+644,8/27/1946,Non-Intensive care hospitalization,Symptomatic,4/4/2020,Healed,5/9/2020,4/15/2020,Interstitial pneumonia
+645,1/23/1926,Non-Intensive care hospitalization,Symptomatic,4/14/2020,Deceased,5/12/2020,4/15/2020,"Deceased at the hospital - resident of a retirement house Interstitial pneumonia, anemic myelodysplasia"
+646,3/4/1932,Non-Intensive care hospitalization,Symptomatic,4/13/2020,Deceased,4/17/2020,4/15/2020,Deceased at the hospital - respiratory failure
+647,3/16/1977,Home isolation,Symptomatic,4/13/2020,Healed,5/2/2020,4/15/2020,Healthcare worker
+648,10/14/1959,Home isolation,Symptomatic,4/14/2020,Healed,5/12/2020,4/15/2020,In contact with positive patient
+649,12/9/1985,Home isolation,Asymptomatic,NA,Healed,5/7/2020,4/15/2020,Healthcare worker
+650,10/24/1931,Home isolation,Symptomatic,4/14/2020,Healed,6/18/2020,4/15/2020,In contact with positive patient
+651,2/19/1926,Home isolation,Symptomatic,4/14/2020,Healed,5/15/2020,4/15/2020,In contact with positive patient
+652,8/21/1934,Home isolation,Symptomatic,4/7/2020,Healed,6/18/2020,4/15/2020,In contact with positive patient
+653,10/10/1924,Home isolation,Symptomatic,4/14/2020,Healed,6/18/2020,4/15/2020,In contact with positive patient
+654,1/24/1936,Non-Intensive care hospitalization,Symptomatic,4/2/2020,Healed,6/5/2020,4/15/2020,Interstitial pneumonia
+655,11/18/2019,Home isolation,Symptomatic,4/8/2020,Healed,5/12/2020,4/16/2020,In contact with positive patient
+656,11/18/2019,Home isolation,Symptomatic,4/8/2020,Healed,5/12/2020,4/16/2020,In contact with positive patient
+657,8/25/1955,Home isolation,Symptomatic,4/8/2020,Healed,5/6/2020,4/16/2020,In contact with positive patient
+658,4/21/1930,Non-Intensive care hospitalization,Symptomatic,4/7/2020,Healed,6/4/2020,4/16/2020,In contact with positive patient
+659,10/31/1971,Home isolation,Asymptomatic,NA,Healed,5/5/2020,4/16/2020,In contact with positive patient
+660,6/3/1985,Home isolation,Symptomatic,4/7/2020,Healed,5/12/2020,4/16/2020,In contact with positive patient
+661,1/9/1987,Home isolation,Symptomatic,4/7/2020,Healed,5/12/2020,4/16/2020,In contact with positive patient
+662,8/5/1990,Home isolation,Symptomatic,4/7/2020,Healed,7/10/2020,4/16/2020,In contact with positive patient
+663,1/1/1935,Non-Intensive care hospitalization,Symptomatic,4/7/2020,Deceased,5/3/2020,4/16/2020,In contact with positive patient - Deceased at the hospital - resident in a retirement house - pneumonia
+664,5/15/1937,Non-Intensive care hospitalization,Symptomatic,3/28/2020,Deceased,4/15/2020,4/16/2020,Femur fracture and Interstitial pneumonia
+665,8/5/1990,Non-Intensive care hospitalization,Symptomatic,4/7/2020,Healed,5/5/2020,4/16/2020,In contact with positive patient
+666,6/11/1964,Non-Intensive care hospitalization,Asymptomatic,NA,Healed,5/12/2020,4/16/2020,In contact with positive patient
+667,6/16/1940,Non-Intensive care hospitalization,Symptomatic,4/8/2020,Healed,6/4/2020,4/16/2020,Flu symptoms
+668,12/17/1961,Home isolation,Symptomatic,4/8/2020,Healed,5/11/2020,4/16/2020,In contact with positive patient
+669,12/19/1983,Home isolation,Symptomatic,3/31/2020,Healed,5/15/2020,4/16/2020,Flu symptoms
+670,12/17/1967,Home isolation,Symptomatic,3/29/2020,Healed,5/11/2020,4/16/2020,Flu symptoms
+671,9/13/1968,Non-Intensive care hospitalization,Symptomatic,4/3/2020,Healed,5/25/2020,4/16/2020,Interstitial pneumonia
+672,6/11/1961,Non-Intensive care hospitalization,Symptomatic,4/13/2020,Healed,5/8/2020,4/16/2020,In contact with positive patient
+673,6/23/1981,Non-Intensive care hospitalization,Symptomatic,4/13/2020,Healed,5/27/2020,4/16/2020,In contact with positive patient
+674,8/28/1972,Home isolation,Symptomatic,4/13/2020,Healed,5/11/2020,4/16/2020,In contact with positive patient
+675,2/21/2009,Home isolation,Symptomatic,4/8/2020,Healed,5/18/2020,4/16/2020,In contact with positive patient
+676,6/6/1992,Home isolation,Symptomatic,4/7/2020,Healed,5/7/2020,4/16/2020,Healthcare worker
+677,2/14/1979,Home isolation,Symptomatic,4/8/2020,Healed,5/11/2020,4/16/2020,In contact with positive patient
+678,5/27/1968,Home isolation,Symptomatic,4/8/2020,Healed,5/2/2020,4/16/2020,In contact with positive patient
+679,10/27/1971,Home isolation,Symptomatic,4/8/2020,Healed,5/11/2020,4/16/2020,In contact with positive patient
+680,10/9/2008,Home isolation,Symptomatic,4/8/2020,Healed,5/11/2020,4/16/2020,In contact with positive patient
+681,5/12/2013,Home isolation,Symptomatic,4/8/2020,Healed,6/18/2020,4/16/2020,In contact with positive patient
+682,9/2/1991,Non-Intensive care hospitalization,Symptomatic,4/13/2020,Healed,5/12/2020,4/16/2020,In contact with positive patient
+683,3/8/1963,Home isolation,Symptomatic,3/28/2020,Healed,5/4/2020,4/16/2020,In contact with positive patient
+684,1/14/1979,Home isolation,Asymptomatic,NA,Healed,5/18/2020,4/16/2020,In contact with positive patient
+685,5/24/1973,Non-Intensive care hospitalization,Symptomatic,4/13/2020,Healed,5/25/2020,4/16/2020,Flu symptoms
+686,8/6/1930,Non-Intensive care hospitalization,Symptomatic,4/13/2020,Healed,7/7/2020,4/16/2020,In contact with positive patient
+687,9/20/1922,Home isolation,Symptomatic,4/14/2020,Deceased,4/30/2020,4/16/2020,Died at the hospital - Retirement house
+688,12/17/1940,Home isolation,Symptomatic,4/13/2020,Healed,6/18/2020,4/16/2020,In contact with positive patient
+689,2/19/1925,Non-Intensive care hospitalization,Symptomatic,4/14/2020,Healed,6/18/2020,4/16/2020,In contact with positive patient
+690,11/11/1934,Home isolation,Symptomatic,4/14/2020,Healed,6/18/2020,4/16/2020,In contact with positive patient
+691,12/12/1921,Home isolation,Symptomatic,4/13/2020,Healed,6/18/2020,4/16/2020,In contact with positive patient
+692,12/4/1942,Non-Intensive care hospitalization,Symptomatic,4/14/2020,Healed,5/18/2020,4/16/2020,In contact with positive patient
+693,5/28/1922,Home isolation,Symptomatic,4/13/2020,Deceased,4/26/2020,4/16/2020,"Deceased at the hospital respiratory failure, kidney failure"
+694,6/27/1924,Home isolation,Symptomatic,4/13/2020,Deceased,4/26/2020,4/16/2020,"Deceased at the hospital, respiratory failure"
+695,9/26/1943,Home isolation,Symptomatic,4/13/2020,Healed,6/18/2020,4/16/2020,In contact with positive patient
+696,8/31/1933,Home isolation,Symptomatic,4/14/2020,Deceased,4/22/2020,4/16/2020,"Deceased at the hospital, respiratory failure - resident in a retirement house"
+697,12/22/1934,Home isolation,Symptomatic,4/13/2020,Healed,6/18/2020,4/16/2020,In contact with positive patient
+698,4/28/1932,Home isolation,Symptomatic,4/13/2020,Deceased,5/5/2020,4/16/2020,Deceased at the hospital- resident in a retirement house Interstitial bilateral pneumonia and respiratory failure
+699,1/15/1923,Non-Intensive care hospitalization,Symptomatic,4/14/2020,Healed,5/18/2020,4/16/2020,In contact with positive patient
+700,10/25/1972,Home isolation,Asymptomatic,NA,Healed,5/6/2020,4/16/2020,Healthcare worker
+701,4/16/1976,Home isolation,Symptomatic,4/8/2020,Healed,5/21/2020,4/16/2020,Flu symptoms
+702,9/2/1974,Home isolation,Asymptomatic,NA,Healed,5/16/2020,4/16/2020,In contact with positive patient
+703,12/1/1926,Non-Intensive care hospitalization,Symptomatic,4/14/2020,Deceased,4/23/2020,4/16/2020,Deceased at the hospital- resident in a retirement house Interstitial bilateral pneumonia and respiratory failure
+704,8/9/1989,Home isolation,Symptomatic,4/8/2020,Healed,6/18/2020,4/16/2020,In contact with positive patient
+705,5/14/1994,Home isolation,Symptomatic,4/4/2020,Healed,5/7/2020,4/16/2020,Healthcare worker In contact with positive patient
+706,5/16/1931,Non-Intensive care hospitalization,Symptomatic,4/1/2020,Healed,5/4/2020,4/16/2020,Flu symptoms
+707,12/15/1925,Non-Intensive care hospitalization,Symptomatic,4/8/2020,Healed,5/3/2020,4/16/2020,Flu symptoms
+708,3/5/1960,Home isolation,Symptomatic,4/14/2020,Healed,5/11/2020,4/16/2020,In contact with positive patient
+709,12/27/1976,Home isolation,Asymptomatic,NA,Healed,5/13/2020,4/16/2020,Healthcare worker In contact with positive patient
+710,3/15/1954,Home isolation,Symptomatic,4/8/2020,Healed,6/5/2020,4/16/2020,In contact with positive patient
+711,10/2/1979,Home isolation,Symptomatic,4/7/2020,Healed,6/15/2020,4/16/2020,In contact with positive patient
+712,12/12/1933,Non-Intensive care hospitalization,Symptomatic,3/24/2020,Healed,5/9/2020,4/16/2020,Flu symptoms
+713,2/25/1941,Non-Intensive care hospitalization,Symptomatic,4/8/2020,Healed,5/12/2020,4/16/2020,Interstitial pneumonia
+714,3/9/1921,Non-Intensive care hospitalization,Symptomatic,4/15/2020,Healed,5/7/2020,4/16/2020,Flu symptoms - resident in a retirement house
+715,10/11/1932,Home isolation,Symptomatic,4/14/2020,Healed,5/7/2020,4/17/2020,In contact with positive patient
+716,2/4/1928,Non-Intensive care hospitalization,Symptomatic,4/8/2020,Healed,5/12/2020,4/17/2020,Flu symptoms
+717,7/17/1987,Home isolation,Symptomatic,3/30/2020,Healed,6/3/2020,4/17/2020,Healthcare worker
+718,3/16/1937,Home isolation,Symptomatic,4/14/2020,Healed,6/23/2020,4/17/2020,In contact with positive patient
+719,9/17/1971,Home isolation,Asymptomatic,NA,Healed,5/19/2020,4/17/2020,In contact with positive patient
+720,11/26/1991,Home isolation,Asymptomatic,NA,Healed,5/7/2020,4/17/2020,Healthcare worker
+721,12/27/1988,Home isolation,Symptomatic,4/8/2020,Healed,6/3/2020,4/17/2020,Flu symptoms
+722,6/21/1981,Home isolation,Symptomatic,4/2/2020,Healed,5/11/2020,4/17/2020,Interstitial pneumonia
+723,11/7/1969,Home isolation,Symptomatic,4/7/2020,Healed,5/2/2020,4/17/2020,Flu symptoms
+724,5/20/1946,Intensive care,Symptomatic,4/1/2020,Deceased,5/20/2020,4/17/2020,In contact with positive patient - Deceased at the hospital Interstitial pneumonia
+725,4/21/1956,Home isolation,Symptomatic,4/6/2020,Healed,4/27/2020,4/17/2020,In contact with positive patient
+726,11/13/1943,Non-Intensive care hospitalization,Symptomatic,4/5/2020,Healed,5/21/2020,4/17/2020,Interstitial pneumonia
+727,1/7/1934,Non-Intensive care hospitalization,Symptomatic,3/26/2020,Deceased,4/21/2020,4/17/2020,Died at the hospital - Interstitial pneumonia
+728,3/7/1983,Home isolation,Asymptomatic,NA,Healed,5/7/2020,4/17/2020,Healthcare worker
+729,8/14/1958,Home isolation,Symptomatic,4/8/2020,Healed,5/6/2020,4/17/2020,In contact with positive patient
+730,7/12/1953,Non-Intensive care hospitalization,Symptomatic,4/9/2020,Healed,5/2/2020,4/17/2020,Flu symptoms
+731,7/24/1922,Non-Intensive care hospitalization,Symptomatic,4/9/2020,Deceased,4/20/2020,4/17/2020,Deceased at the hospital - Interstitial pneumonia
+732,11/16/1932,NA,Symptomatic,4/8/2020,Deceased,4/8/2020,4/17/2020,Died at home - Tested positif post mortem
+733,11/28/1970,Home isolation,Symptomatic,4/2/2020,Healed,5/7/2020,4/17/2020,In contact with positive patient
+734,11/19/1927,Non-Intensive care hospitalization,Symptomatic,4/8/2020,Healed,6/19/2020,4/17/2020,Flu symptoms
+735,12/3/1947,Non-Intensive care hospitalization,Symptomatic,4/8/2020,Deceased,4/22/2020,4/17/2020,Died at the hospital - cancer patient with pneumonia
+736,10/18/1955,Intensive care,Symptomatic,4/9/2020,Deceased,5/3/2020,4/17/2020,Deceased at the hospital - pneumonia
+737,8/3/1927,Home isolation,Symptomatic,4/10/2020,Healed,6/23/2020,4/17/2020,In contact with positive patient
+738,7/1/1931,Home isolation,Symptomatic,4/12/2020,Healed,6/23/2020,4/17/2020,In contact with positive patient
+739,3/31/1930,Home isolation,Symptomatic,4/14/2020,Healed,6/23/2020,4/17/2020,In contact with positive patient
+740,5/30/1929,Home isolation,Symptomatic,4/10/2020,Healed,6/23/2020,4/17/2020,In contact with positive patient
+741,8/23/1934,Home isolation,Symptomatic,4/14/2020,Healed,6/23/2020,4/17/2020,In contact with positive patient
+742,5/29/1934,Home isolation,Symptomatic,4/10/2020,Healed,6/23/2020,4/17/2020,In contact with positive patient
+743,7/16/1934,Home isolation,Symptomatic,4/14/2020,Healed,6/23/2020,4/17/2020,In contact with positive patient
+744,7/12/1955,Home isolation,Symptomatic,4/12/2020,Healed,7/8/2020,4/17/2020,In contact with positive patient
+745,8/1/1969,Home isolation,Asymptomatic,NA,Healed,5/14/2020,4/17/2020,In contact with positive patient
+746,9/15/1980,Home isolation,Asymptomatic,NA,Healed,5/11/2020,4/17/2020,In contact with positive patient
+747,10/16/1972,Home isolation,Asymptomatic,NA,Healed,5/11/2020,4/17/2020,Home isolation
+748,3/25/1978,Home isolation,Asymptomatic,NA,Healed,6/1/2020,4/17/2020,Home isolation
+749,9/27/1937,Non-Intensive care hospitalization,Symptomatic,4/6/2020,Deceased,4/16/2020,4/17/2020,Died at the hospital - Interstitial pneumonia
+750,3/29/1934,Non-Intensive care hospitalization,Symptomatic,4/13/2020,Healed,5/9/2020,4/18/2020,Flu symptoms
+751,9/21/1938,Non-Intensive care hospitalization,Symptomatic,4/17/2020,Healed,5/17/2020,4/18/2020,Flu symptoms
+752,10/21/1957,Non-Intensive care hospitalization,Symptomatic,4/1/2020,Healed,5/22/2020,4/18/2020,Interstitial pneumonia
+753,7/10/1931,Non-Intensive care hospitalization,Symptomatic,NA,Deceased,4/11/2020,4/18/2020,Tested positve post mortem - no particular past pathologies - died at the hospital
+754,3/1/1969,Home isolation,Asymptomatic,NA,Healed,5/26/2020,4/18/2020,In contact with positive patient
+755,7/22/1966,Home isolation,Symptomatic,4/8/2020,Healed,5/2/2020,4/18/2020,In contact with positive patient
+756,3/2/1968,Home isolation,Symptomatic,4/3/2020,Healed,5/2/2020,4/18/2020,Healthcare worker probably In contact with positive patient
+757,6/4/1973,Home isolation,Symptomatic,4/8/2020,Healed,5/23/2020,4/18/2020,unknown
+758,6/14/1955,Home isolation,Asymptomatic,NA,Healed,5/14/2020,4/18/2020,In contact with positive patient
+759,8/22/1987,Home isolation,Asymptomatic,NA,Healed,5/14/2020,4/18/2020,In contact with positive patient
+760,4/10/1946,Non-Intensive care hospitalization,Symptomatic,4/15/2020,Deceased,5/1/2020,4/18/2020,Hospitalized with nterstitial pneumonia on 04-04
+761,4/24/1988,Home isolation,Symptomatic,4/9/2020,Healed,5/16/2020,4/18/2020,Healthcare worker from a cluster outside of province
+762,11/6/1942,Non-Intensive care hospitalization,Symptomatic,4/8/2020,Healed,4/29/2020,4/18/2020,In contact with positive patient
+763,8/12/1944,Home isolation,Symptomatic,4/8/2020,Healed,4/28/2020,4/18/2020,In contact with positive patient
+764,11/3/1948,Non-Intensive care hospitalization,Symptomatic,4/1/2020,Healed,5/14/2020,4/18/2020,unknown
+765,9/25/1944,Non-Intensive care hospitalization,Symptomatic,4/14/2020,Healed,5/9/2020,4/19/2020,Interstitial pneumonia
+766,9/17/1932,Non-Intensive care hospitalization,Symptomatic,4/2/2020,Healed,5/12/2020,4/19/2020,Flu symptoms
+767,1/6/1940,Non-Intensive care hospitalization,Symptomatic,4/14/2020,Healed,6/23/2020,4/19/2020,Flu symptoms
+768,9/15/1937,Non-Intensive care hospitalization,Asymptomatic,NA,Deceased,5/25/2020,4/19/2020,Asymptomatic - hospitalized
+769,7/25/1938,Non-Intensive care hospitalization,Asymptomatic,NA,Deceased,4/22/2020,4/19/2020,Died at the hospital - pneumonia
+770,6/23/1936,Home isolation,Symptomatic,4/14/2020,Healed,5/9/2020,4/19/2020,Flu symptoms
+771,9/25/1930,Non-Intensive care hospitalization,Symptomatic,4/14/2020,Deceased,4/17/2020,4/19/2020,Interstitial pneumonia - Died at the hospital
+772,3/8/1946,Non-Intensive care hospitalization,Symptomatic,4/9/2020,Healed,5/7/2020,4/19/2020,Flu symptoms
+773,9/24/1974,Home isolation,Symptomatic,4/14/2020,Healed,5/8/2020,4/19/2020,Flu symptoms
+774,8/29/1939,Non-Intensive care hospitalization,Symptomatic,3/25/2020,Deceased,4/22/2020,4/19/2020,Died at the hospital
+775,3/9/1958,Non-Intensive care hospitalization,Symptomatic,4/7/2020,Healed,5/11/2020,4/19/2020,Flu symptoms
+776,11/25/1940,Non-Intensive care hospitalization,Symptomatic,4/10/2020,Deceased,4/17/2020,4/19/2020,Died at the hospital - In contact with positive patient
+777,1/7/1950,Non-Intensive care hospitalization,Symptomatic,4/3/2020,Healed,5/23/2020,4/20/2020,In contact with positive patient
+778,5/3/1972,Non-Intensive care hospitalization,Symptomatic,4/17/2020,Healed,5/15/2020,4/20/2020,Flu symptoms
+779,1/5/1970,Home isolation,Asymptomatic,NA,Healed,5/11/2020,4/20/2020,Healthcare worker
+780,10/2/1972,Non-Intensive care hospitalization,Symptomatic,4/10/2020,Healed,6/4/2020,4/20/2020,Flu symptoms
+781,12/18/1965,Home isolation,Symptomatic,4/16/2020,Healed,6/4/2020,4/20/2020,In contact with positive patient
+782,11/27/1954,Home isolation,Asymptomatic,NA,Healed,4/15/2020,4/20/2020,Cleaning lady of the hospital
+783,1/15/1936,Non-Intensive care hospitalization,Symptomatic,3/31/2020,Deceased,4/22/2020,4/20/2020,Died at the hospital - Interstitial pneumonia
+784,8/17/1967,Home isolation,Symptomatic,4/15/2020,Healed,5/15/2020,4/20/2020,Flu symptoms
+785,7/1/1959,Home isolation,Asymptomatic,NA,Healed,5/4/2020,4/20/2020,Healthcare worker
+786,2/23/1988,Home isolation,Symptomatic,4/14/2020,Healed,5/16/2020,4/20/2020,In contact with positive patient
+787,5/13/1984,Home isolation,Symptomatic,4/11/2020,Healed,5/11/2020,4/20/2020,In contact with positive patient
+788,8/15/2012,Home isolation,Symptomatic,4/20/2020,Healed,5/16/2020,4/20/2020,In contact with positive patient
+789,2/6/1925,Non-Intensive care hospitalization,Asymptomatic,NA,Deceased,4/27/2020,4/20/2020,Deceased at the hospital - severe respiratory failure and heart failure
+790,5/1/1940,Non-Intensive care hospitalization,Symptomatic,2/25/2020,Deceased,4/20/2020,4/20/2020,Interstitial pneumonia - Deceased at the hospital
+791,1/18/1998,Home isolation,Symptomatic,4/3/2020,Healed,5/27/2020,4/20/2020,In contact with positive patient
+792,10/28/1973,Home isolation,Symptomatic,4/17/2020,Healed,4/15/2020,4/20/2020,Pneumonia
+793,5/28/1951,Non-Intensive care hospitalization,Symptomatic,3/30/2020,Disease in progress,NA,4/20/2020,Decleared healed on 07/03/2020 retested positive on 07/13/2020
+794,3/24/1979,Home isolation,Symptomatic,4/14/2020,Healed,5/22/2020,4/21/2020,Flu symptoms
+795,5/22/1929,Non-Intensive care hospitalization,Symptomatic,4/6/2020,Deceased,4/29/2020,4/21/2020,Deceased at the hospital
+796,9/1/1966,Home isolation,Asymptomatic,NA,Healed,5/16/2020,4/21/2020,In contact with positive patient
+797,9/26/1956,Home isolation,Symptomatic,4/16/2020,Healed,5/4/2020,4/21/2020,Flu symptoms
+798,12/1/1980,Home isolation,Symptomatic,4/17/2020,Healed,5/22/2020,4/21/2020,Healthcare worker
+799,10/16/1948,Non-Intensive care hospitalization,Symptomatic,4/18/2020,Healed,4/15/2020,4/21/2020,Flu symptoms
+800,12/12/1933,Non-Intensive care hospitalization,Symptomatic,4/18/2020,Deceased,5/14/2020,4/21/2020,From retirement house - Deceased at the hospital for pneumonia and severe respiratory failure
+801,2/11/1939,Intensive care,Symptomatic,4/14/2020,Healed,5/20/2020,4/21/2020,Flu symptoms
+802,11/20/1943,Home isolation,Symptomatic,4/17/2020,Healed,7/8/2020,4/21/2020,Flu symptoms
+803,4/28/1924,Intensive care,Symptomatic,4/17/2020,Deceased,5/2/2020,4/21/2020,Interstitial pneumonia Hospitalized on 04/24 - Retirement house patient Interstial pneumonia
+804,3/10/1962,Intensive care,Symptomatic,4/1/2020,Healed,5/9/2020,4/21/2020,Flu symptoms
+805,7/25/1990,Home isolation,Asymptomatic,NA,Healed,5/21/2020,4/21/2020,Healthcare worker
+806,3/30/1960,Home isolation,Asymptomatic,NA,Healed,5/28/2020,4/21/2020,Healthcare worker
+807,9/11/1928,Non-Intensive care hospitalization,Symptomatic,4/20/2020,Healed,5/27/2020,4/21/2020,Flu symptoms
+808,11/21/1963,Home isolation,Symptomatic,4/19/2020,Healed,5/25/2020,4/21/2020,Healthcare worker
+809,3/17/1969,Home isolation,Symptomatic,4/16/2020,Healed,5/25/2020,4/21/2020,In contact with positive patient
+810,11/20/1954,Home isolation,Symptomatic,4/18/2020,Healed,5/6/2020,4/21/2020,Healthcare worker -In contact with positive patient
+811,3/1/1937,Home isolation,Symptomatic,4/18/2020,Deceased,6/11/2020,4/21/2020,Flu symptoms - Retirement house - Deceased at the hospital
+812,9/13/1926,Home isolation,Asymptomatic,NA,Healed,5/22/2020,4/22/2020,In contact with positive patient - retirement house
+813,11/27/1944,Non-Intensive care hospitalization,Symptomatic,4/18/2020,Healed,5/7/2020,4/22/2020,Flu symptoms
+814,12/26/1926,Home isolation,Symptomatic,4/18/2020,Healed,6/23/2020,4/22/2020,Flu symptoms
+815,9/2/1970,Home isolation,Symptomatic,4/19/2020,Healed,5/7/2020,4/22/2020,Flu symptoms
+816,11/5/1927,Home isolation,Asymptomatic,NA,Healed,5/23/2020,4/22/2020,In contact with positive patient retirement house
+817,3/4/1933,Home isolation,Asymptomatic,NA,Deceased,6/25/2020,4/22/2020,Deceased at the hospital - severe past pathologies  - In contact with positive patient retirement house cluster Cluster CRA
+818,5/29/1930,Home isolation,Asymptomatic,NA,Healed,5/24/2020,4/22/2020,In contact with positive patient retirement house cluster Cluster CRA
+819,8/15/1943,Home isolation,Asymptomatic,NA,Healed,5/24/2020,4/22/2020,In contact with positive patient retirement house cluster Cluster CRA
+820,8/30/1931,Home isolation,Asymptomatic,NA,Healed,5/24/2020,4/22/2020,In contact with positive patient retirement house cluster Cluster CRA
+821,9/12/1930,Home isolation,Asymptomatic,NA,Healed,5/24/2020,4/22/2020,In contact with positive patient retirement house cluster
+822,11/20/1928,Home isolation,Asymptomatic,NA,Disease in progress,NA,4/22/2020,In contact with positive patient retirement house Cluster CRA
+823,6/1/1936,Home isolation,Asymptomatic,NA,Deceased,5/2/2020,4/22/2020,In contact with positive patient retirement house Cluster CRA - Deceased at the hospital - heart failure
+824,6/21/1923,Home isolation,Asymptomatic,NA,Healed,6/15/2020,4/22/2020,In contact with positive patient retirement house Cluster CRA
+825,3/12/1923,Home isolation,Asymptomatic,NA,Healed,5/24/2020,4/22/2020,In contact with positive patient retirement house Cluster CRA
+826,6/2/1936,Non-Intensive care hospitalization,Symptomatic,5/4/2020,Deceased,6/16/2020,4/22/2020,In contact with positive patient retirement house Cluster CRA - Died at the hospital - Severe past pathologies
+827,2/8/1931,Home isolation,Asymptomatic,NA,Healed,5/24/2020,4/22/2020,In contact with positive patient retirement house Cluster CRA
+828,4/5/1953,Home isolation,Asymptomatic,NA,Healed,5/24/2020,4/22/2020,In contact with positive patient retirement house Cluster CRA
+829,1/22/1967,Home isolation,Asymptomatic,NA,Healed,5/22/2020,4/22/2020,In contact with positive patient - Healthcare worker in retirement house
+830,1/9/1976,Home isolation,Asymptomatic,NA,Healed,6/18/2020,4/22/2020,In contact with positive patient - Healthcare worker in retirement house
+831,1/1/1962,Non-Intensive care hospitalization,Symptomatic,4/18/2020,Healed,7/7/2020,4/22/2020,In contact with positive patient - Healthcare worker in retirement house
+832,1/3/1924,Non-Intensive care hospitalization,Symptomatic,4/18/2020,Deceased,4/22/2020,4/22/2020,Died at the hospital - from retirement house Interstitial pneumonia
+833,7/13/1976,Home isolation,Asymptomatic,NA,Healed,5/25/2020,4/22/2020,In contact with positive patient - Healthcare worker in retirement house
+834,5/24/1945,Non-Intensive care hospitalization,Symptomatic,4/17/2020,Deceased,5/2/2020,4/22/2020,In contact with positive patient - retirement house Deceased at the hospital lungs failure
+835,10/16/1981,Home isolation,Symptomatic,4/21/2020,Healed,5/18/2020,4/22/2020,Flu symptoms
+836,3/29/1926,Non-Intensive care hospitalization,Asymptomatic,NA,Healed,7/8/2020,4/22/2020,Tested when hospitalized for other reasons
+837,9/5/1953,Home isolation,Asymptomatic,NA,Healed,5/15/2020,4/22/2020,Healthcare worker
+838,1/1/1946,Non-Intensive care hospitalization,Symptomatic,4/17/2020,Healed,5/16/2020,4/22/2020,Interstitial pneumonia
+839,6/9/1949,Non-Intensive care hospitalization,Symptomatic,4/16/2020,Disease in progress,NA,4/22/2020,Flu symptoms
+840,5/6/1971,Home isolation,Symptomatic,3/29/2020,Healed,5/20/2020,4/23/2020,Healthcare worker
+841,4/3/1943,Home isolation,Asymptomatic,NA,Healed,5/7/2020,4/23/2020,Tested when hospitalized for other reasons
+842,4/29/1928,Non-Intensive care hospitalization,Symptomatic,3/14/2020,Deceased,5/17/2020,4/23/2020,Flu symptoms - Deceased at the hospital
+843,1/12/1942,Non-Intensive care hospitalization,Symptomatic,4/13/2020,Healed,6/23/2020,4/23/2020,Flu symptoms
+844,12/1/1938,Home isolation,Symptomatic,4/21/2020,Healed,5/22/2020,4/23/2020,Flu symptoms
+845,8/27/1975,Home isolation,Asymptomatic,NA,Healed,5/22/2020,4/23/2020,Healthcare worker Cluster CRA  - In contact with positive patient
+846,7/6/1969,Home isolation,Asymptomatic,NA,Healed,6/24/2020,4/23/2020,Healthcare worker Cluster CRA  - In contact with positive patient
+847,10/15/1966,Home isolation,Asymptomatic,NA,Healed,6/22/2020,4/23/2020,Healthcare worker Cluster CRA  - In contact with positive patient
+848,11/2/1979,Home isolation,Asymptomatic,NA,Healed,5/22/2020,4/23/2020,Healthcare worker Cluster CRA - In contact with positive patient
+849,6/16/1968,Home isolation,Asymptomatic,NA,Healed,5/20/2020,4/23/2020,Healthcare worker Cluster CRA  - In contact with positive patient
+850,1/22/1969,Home isolation,Asymptomatic,NA,Healed,6/1/2020,4/23/2020,Healthcare worker Cluster CRA  - In contact with positive patient
+851,4/18/1977,Home isolation,Asymptomatic,NA,Disease in progress,NA,4/23/2020,Healthcare worker Cluster CRA - In contact with positive patient - positive again on 07/01/2020
+852,3/26/1960,Home isolation,Asymptomatic,NA,Healed,6/1/2020,4/23/2020,Healthcare worker Cluster CRA - In contact with positive patient
+853,6/24/1963,Home isolation,Asymptomatic,NA,Healed,5/20/2020,4/23/2020,Healthcare worker Cluster CRA - In contact with positive patient
+854,3/17/1997,Home isolation,Asymptomatic,NA,Healed,7/7/2020,4/23/2020,Healthcare worker Cluster CRA - In contact with positive patient - tested positive again on 07/01/2020
+855,6/16/1972,Home isolation,Asymptomatic,NA,Healed,6/25/2020,4/23/2020,Healthcare worker Cluster CRA   - In contact with positive patient
+856,9/29/1930,Home isolation,Asymptomatic,NA,Healed,5/24/2020,4/23/2020,retirement house Cluster CRA   - In contact with positive patient
+857,4/10/1926,Non-Intensive care hospitalization,Asymptomatic,NA,Deceased,5/3/2020,4/23/2020,Deceased at the hospital - retirement house Cluster CRA  - In contact with positive patient - respiratory failure and pneumonia
+858,11/17/1934,Home isolation,Asymptomatic,NA,Healed,5/24/2020,4/23/2020,retirement house Cluster CRA - In contact with positive patient
+859,1/18/1929,Non-Intensive care hospitalization,Symptomatic,NA,Disease in progress,NA,4/23/2020,retirement house Cluster CRA - In contact with positive patient
+860,11/14/1934,Non-Intensive care hospitalization,Symptomatic,4/9/2020,Healed,5/28/2020,4/23/2020,Flu symptoms
+861,6/18/1956,Non-Intensive care hospitalization,Symptomatic,4/18/2020,Healed,7/14/2020,4/23/2020,Flu symptoms
+862,7/12/1946,Non-Intensive care hospitalization,Symptomatic,4/13/2020,Healed,5/16/2020,4/23/2020,Flu symptoms
+863,5/15/1958,Home isolation,Asymptomatic,NA,Healed,6/11/2020,4/23/2020,Healthcare worker Cluster CRA - In contact with positive patient
+864,2/11/1929,Non-Intensive care hospitalization,Asymptomatic,NA,Healed,5/25/2020,4/24/2020,Asymptomatic
+865,11/3/1983,Home isolation,Asymptomatic,NA,Healed,5/21/2020,4/24/2020,Healthcare worker
+866,8/31/1928,Home isolation,Asymptomatic,NA,Healed,5/23/2020,4/24/2020,retirement house Cluster CRA - In contact with positive patient
+867,6/16/1944,Non-Intensive care hospitalization,Symptomatic,4/26/2020,Healed,5/25/2020,4/24/2020,retirement house Cluster CRA - In contact with positive patient
+868,10/9/1936,Non-Intensive care hospitalization,Asymptomatic,NA,Deceased,6/9/2020,4/24/2020,retirement house Cluster CRA   - In contact with positive patient - Deceased at the hospital
+869,9/30/1927,Non-Intensive care hospitalization,Symptomatic,5/1/2020,Healed,5/18/2020,4/24/2020,retirement house Cluster CRA   - In contact with positive patient
+870,6/23/1935,Home isolation,Asymptomatic,NA,Healed,5/24/2020,4/24/2020,retirement house Cluster CRA   - In contact with positive patient
+871,7/4/1925,Home isolation,Asymptomatic,NA,Healed,5/24/2020,4/24/2020,retirement house Cluster CRA   - In contact with positive patient
+872,3/15/1920,Home isolation,Asymptomatic,NA,Healed,5/24/2020,4/24/2020,retirement house Cluster CRA   - In contact with positive patient
+873,12/5/1937,Non-Intensive care hospitalization,Symptomatic,4/26/2020,Deceased,5/17/2020,4/24/2020,retirement house Cluster CRA   - In contact with positive patient - Deceased at the hospital - Pneumonia
+874,12/26/1923,Home isolation,Asymptomatic,NA,Healed,6/15/2020,4/24/2020,retirement house Cluster CRA   - In contact with positive patient
+875,9/4/1942,Home isolation,Asymptomatic,NA,Healed,5/18/2020,4/24/2020,retirement house Cluster CRA   - In contact with positive patient
+876,11/12/1924,Home isolation,Asymptomatic,NA,Healed,5/24/2020,4/24/2020,retirement house Cluster CRA   - In contact with positive patient
+877,6/1/1920,Home isolation,Asymptomatic,NA,Healed,5/24/2020,4/24/2020,retirement house Cluster CRA   - In contact with positive patient
+878,7/31/1927,Non-Intensive care hospitalization,Symptomatic,5/1/2020,Deceased,6/4/2020,4/24/2020,retirement house Cluster CRA - Died at the hospital - Interstitial pneumonia and respiratory failure
+879,1/25/1937,Non-Intensive care hospitalization,Asymptomatic,NA,Deceased,5/24/2020,4/24/2020,retirement house Cluster CRA   - In contact with positive patient - Died at the hospital - Interstitial pneumonia COVID 19 respiratory failure
+880,2/22/1983,Home isolation,Symptomatic,4/15/2020,Healed,5/18/2020,4/24/2020,Flu symptoms
+881,7/18/1965,Home isolation,Symptomatic,4/9/2020,Healed,5/18/2020,4/24/2020,Flu symptoms
+882,12/7/1963,Home isolation,Asymptomatic,NA,Healed,5/14/2020,4/24/2020,Flu symptoms
+883,3/17/1973,Home isolation,Asymptomatic,NA,Disease in progress,NA,4/25/2020,Healthcare worker
+884,9/11/1968,Home isolation,Asymptomatic,NA,Healed,4/25/2020,4/25/2020,Healthcare worker
+885,10/6/1962,Home isolation,Asymptomatic,NA,Healed,5/4/2020,4/25/2020,Healthcare worker
+886,5/26/1972,Home isolation,Asymptomatic,NA,Healed,5/3/2020,4/25/2020,Healthcare worker
+887,4/6/1965,Home isolation,Symptomatic,4/23/2020,Healed,6/23/2020,4/25/2020,Healthcare worker
+888,1/19/1973,Home isolation,Symptomatic,4/23/2020,Healed,5/18/2020,4/25/2020,In contact with positive patient
+889,7/10/1947,Non-Intensive care hospitalization,Symptomatic,4/13/2020,Healed,6/22/2020,4/25/2020,Interstitial pneumonia
+890,5/23/1942,Non-Intensive care hospitalization,Symptomatic,4/20/2020,Healed,5/23/2020,4/26/2020,Flu symptoms
+891,5/26/1987,Home isolation,Symptomatic,4/23/2020,Healed,5/30/2020,4/26/2020,Flu symptoms
+892,1/2/1948,Home isolation,Symptomatic,4/23/2020,Healed,5/21/2020,4/26/2020,In contact with positive patient
+893,6/12/1945,Home isolation,Symptomatic,4/19/2020,Healed,6/6/2020,4/26/2020,retirement house Cluster CRA
+894,1/17/1962,Home isolation,Symptomatic,4/12/2020,Healed,5/18/2020,4/26/2020,Flu symptoms
+895,3/8/1931,Non-Intensive care hospitalization,Symptomatic,4/19/2020,Healed,6/19/2020,4/26/2020,Flu symptoms
+896,1/2/1961,Non-Intensive care hospitalization,Symptomatic,4/24/2020,Healed,5/17/2020,4/26/2020,Healthcare worker-  Cluster CRA  - Interstitial pneumonia
+897,3/27/1930,Non-Intensive care hospitalization,Symptomatic,4/23/2020,Disease in progress,NA,4/26/2020,Retirement house Cluster - Tested for flu symptoms 06/03/2020
+898,3/16/1996,Home isolation,Symptomatic,4/23/2020,Healed,5/18/2020,4/26/2020,In contact with positive patient
+899,1/2/1996,Home isolation,Symptomatic,4/22/2020,Healed,5/7/2020,4/26/2020,In contact with positive patient
+900,8/8/1950,Home isolation,Symptomatic,4/15/2020,Healed,5/25/2020,4/26/2020,In contact with positive patient
+901,8/28/1940,Non-Intensive care hospitalization,Symptomatic,4/10/2020,Healed,6/19/2020,4/26/2020,In contact with positive patient
+902,6/21/1934,Non-Intensive care hospitalization,Symptomatic,4/23/2020,Deceased,5/4/2020,4/26/2020,Deceased at the hospital - Deceased for pneumonia
+903,8/17/1972,Home isolation,Symptomatic,4/22/2020,Healed,5/22/2020,4/26/2020,In contact with positive patient
+904,6/21/1942,Non-Intensive care hospitalization,Symptomatic,4/15/2020,Healed,7/1/2020,4/26/2020,Flu symptoms
+905,8/19/1974,Home isolation,Symptomatic,4/23/2020,Healed,5/18/2020,4/27/2020,Healthcare worker
+906,3/14/1972,Home isolation,Symptomatic,4/22/2020,Healed,5/25/2020,4/27/2020,Healthcare worker
+907,11/22/1979,Home isolation,Symptomatic,4/19/2020,Healed,6/4/2020,4/27/2020,In contact with positive patient
+908,11/17/2006,Home isolation,Symptomatic,4/20/2020,Healed,6/4/2020,4/27/2020,In contact with positive patient
+909,8/19/1992,Home isolation,Asymptomatic,NA,Healed,4/15/2020,4/28/2020,Healthcare worker
+910,7/16/1997,Home isolation,Symptomatic,3/30/2020,Healed,5/29/2020,4/28/2020,Flu symptoms
+911,9/10/1994,Home isolation,Symptomatic,4/26/2020,Healed,6/6/2020,4/28/2020,In contact with positive patient
+912,9/21/1931,Non-Intensive care hospitalization,Symptomatic,4/25/2020,Healed,6/1/2020,4/28/2020,Flu symptoms
+913,8/10/1938,Non-Intensive care hospitalization,Symptomatic,4/6/2020,Disease in progress,NA,4/29/2020,Flu symptoms
+914,1/11/2011,Home isolation,Symptomatic,4/27/2020,Healed,5/18/2020,4/29/2020,In contact with positive patient
+915,9/24/1991,Home isolation,Asymptomatic,NA,Healed,5/27/2020,4/29/2020,Healthcare worker
+916,11/17/1993,Home isolation,Asymptomatic,NA,Healed,5/27/2020,4/29/2020,In contact with positive patient
+917,10/8/1962,Non-Intensive care hospitalization,Symptomatic,5/4/2020,Healed,5/25/2020,4/29/2020,Healthcare worker Cluster CRA   - In contact with positive patient
+918,6/2/1964,Non-Intensive care hospitalization,Symptomatic,5/2/2020,Healed,6/3/2020,4/29/2020,In contact with positive patient
+919,8/4/2005,Home isolation,Asymptomatic,NA,Healed,5/25/2020,4/29/2020,In contact with positive patient
+920,3/20/2004,Home isolation,Asymptomatic,NA,Healed,5/25/2020,4/29/2020,In contact with positive patient
+921,3/8/1927,Non-Intensive care hospitalization,Symptomatic,4/18/2020,Healed,7/3/2020,4/29/2020,Flu symptoms
+922,4/18/1928,Non-Intensive care hospitalization,Symptomatic,4/20/2020,Deceased,5/23/2020,4/30/2020,Deceased at the hospital - past pathologies
+923,8/31/1932,Non-Intensive care hospitalization,Asymptomatic,NA,Healed,7/2/2020,4/30/2020,Cluster CRA
+924,4/24/1931,Non-Intensive care hospitalization,Symptomatic,3/20/2020,Deceased,5/14/2020,4/30/2020,Deceased at the hospital - past pathologies and pneumonia
+925,12/13/1964,Home isolation,Asymptomatic,NA,Healed,5/20/2020,5/1/2020,Healthcare worker
+926,8/14/1955,Home isolation,Asymptomatic,NA,Healed,5/27/2020,5/1/2020,Healthcare worker
+927,10/4/1972,Home isolation,Symptomatic,4/10/2020,Healed,5/15/2020,5/1/2020,Flu symptoms
+928,1/3/1943,Non-Intensive care hospitalization,Symptomatic,4/29/2020,Deceased,5/27/2020,5/1/2020,Died at the hospital - retirement house Cluster CRA  pneumonia and heart failure
+929,8/8/1931,Non-Intensive care hospitalization,Symptomatic,4/29/2020,Deceased,5/1/2020,5/1/2020,Flu symptoms - retirement house Cluster CRA. Hospitalized on 04/30 Interstitial pneumonia
+930,11/15/1962,Home isolation,Asymptomatic,NA,Healed,5/21/2020,5/2/2020,Healthcare worker
+931,1/12/1983,Home isolation,Asymptomatic,NA,Healed,5/16/2020,5/2/2020,In contact with positive patient
+932,12/4/1981,Home isolation,Symptomatic,4/28/2020,Healed,5/13/2020,5/2/2020,Healthcare worker
+933,12/16/1943,Non-Intensive care hospitalization,Symptomatic,4/1/2020,Healed,7/2/2020,5/2/2020,Flu symptoms
+934,8/9/1931,Non-Intensive care hospitalization,Asymptomatic,NA,Healed,6/20/2020,5/3/2020,Guest of a retirement house
+935,10/4/1994,Home isolation,Asymptomatic,NA,Healed,5/11/2020,5/4/2020,Healthcare worker
+936,8/18/1951,Home isolation,Symptomatic,5/2/2020,Healed,5/22/2020,5/4/2020,Flu symptoms
+937,9/27/1968,Home isolation,Symptomatic,5/2/2020,Healed,5/22/2020,5/4/2020,Flu symptoms
+938,3/20/1945,Intensive care,Symptomatic,5/2/2020,Disease in progress,NA,5/4/2020,unknown
+939,11/5/1976,Home isolation,Symptomatic,5/4/2020,Healed,5/29/2020,5/6/2020,Cleaning lady of retirement house - Cluster CRA
+940,5/2/1966,Home isolation,Symptomatic,5/3/2020,Healed,6/15/2020,5/6/2020,Healthcare worker Cluster CRA
+941,4/19/1960,Home isolation,Symptomatic,5/3/2020,Healed,6/9/2020,5/6/2020,Healthcare worker Cluster CRA
+942,11/24/1966,Home isolation,Symptomatic,5/3/2020,Healed,5/30/2020,5/6/2020,Healthcare worker Cluster CRA
+943,3/23/1947,Non-Intensive care hospitalization,Symptomatic,5/3/2020,Disease in progress,NA,5/6/2020,retirement house Cluster CRA
+944,12/19/1934,Non-Intensive care hospitalization,Symptomatic,5/3/2020,Deceased,5/10/2020,5/6/2020,Retirement house Cluster CRA   - Deceased at the hospital
+945,8/4/1933,Non-Intensive care hospitalization,Symptomatic,5/2/2020,Healed,5/25/2020,5/6/2020,retirement house Cluster CRA
+946,2/28/1931,Non-Intensive care hospitalization,Symptomatic,4/30/2020,Healed,5/18/2020,5/6/2020,retirement house Cluster CRA
+947,5/19/1998,Home isolation,Symptomatic,5/4/2020,Disease in progress,NA,5/6/2020,Healthcare worker Cluster CRA
+948,9/17/1952,Home isolation,Symptomatic,4/20/2020,Disease in progress,NA,5/6/2020,In contact with positive patient
+949,1/29/1993,Home isolation,Asymptomatic,NA,Healed,5/25/2020,5/6/2020,Healthcare worker
+950,10/7/1953,Home isolation,Asymptomatic,NA,Healed,5/28/2020,5/7/2020,Healthcare worker
+951,11/8/1977,Home isolation,Asymptomatic,NA,Healed,5/27/2020,5/7/2020,Healthcare worker
+952,11/3/1994,Home isolation,Symptomatic,5/1/2020,Healed,5/27/2020,5/7/2020,Healthcare worker
+953,6/11/1960,Home isolation,Asymptomatic,NA,Healed,5/27/2020,5/7/2020,Healthcare worker
+954,5/8/1964,Home isolation,Asymptomatic,NA,Healed,5/21/2020,5/7/2020,Healthcare worker
+955,4/10/1927,Non-Intensive care hospitalization,Symptomatic,5/4/2020,Healed,5/25/2020,5/7/2020,Flu symptoms
+956,9/15/1965,Home isolation,Asymptomatic,NA,Healed,5/25/2020,5/7/2020,Healthcare worker
+957,11/2/1931,Non-Intensive care hospitalization,Symptomatic,NA,Deceased,5/9/2020,5/7/2020,"Deceased at the hospital - Interstitial pneumonia, liver failure and other pathologies"
+958,11/24/1966,Home isolation,Asymptomatic,NA,Healed,5/30/2020,5/7/2020,Healthcare worker retirement house
+959,6/5/1994,Home isolation,Asymptomatic,NA,Healed,5/27/2020,5/8/2020,Flu symptoms
+960,11/3/1934,Non-Intensive care hospitalization,Symptomatic,5/6/2020,Healed,5/28/2020,5/8/2020,Flu symptoms
+961,1/1/1932,Non-Intensive care hospitalization,Symptomatic,3/24/2020,Healed,5/25/2020,5/8/2020,Flu symptoms retirement house
+962,10/25/2001,Home isolation,Symptomatic,5/2/2020,Healed,5/25/2020,5/8/2020,Flu symptoms
+963,6/15/1971,Home isolation,Symptomatic,5/5/2020,Healed,6/3/2020,5/8/2020,In contact with positive patient
+964,12/21/1981,Home isolation,Symptomatic,4/10/2020,Healed,6/3/2020,5/8/2020,Flu symptoms
+965,8/9/1981,Home isolation,Asymptomatic,NA,Healed,5/28/2020,5/8/2020,Healthcare worker
+966,3/25/1925,Non-Intensive care hospitalization,Symptomatic,5/6/2020,Healed,5/25/2020,5/8/2020,Flu symptoms
+967,12/13/1963,Home isolation,Asymptomatic,NA,Healed,5/14/2020,5/8/2020,Tested when returned from abroad
+968,2/19/1985,Home isolation,Asymptomatic,NA,Healed,6/3/2020,5/8/2020,unknown
+969,2/7/1966,Home isolation,Symptomatic,5/7/2020,Healed,5/29/2020,5/9/2020,Healthcare worker
+970,1/13/1971,Non-Intensive care hospitalization,Symptomatic,5/8/2020,Healed,6/3/2020,5/10/2020,Interstitial pneumonia
+971,6/25/1969,Non-Intensive care hospitalization,Symptomatic,5/9/2020,Healed,5/17/2020,5/10/2020,Interstitial pneumonia
+972,6/8/1957,NA,Asymptomatic,NA,Deceased,5/6/2020,5/11/2020,Died for lungs cancer - Tested post mortem
+973,10/18/1970,Home isolation,Asymptomatic,NA,Healed,5/20/2020,5/11/2020,Healthcare worker
+974,11/5/1974,Non-Intensive care hospitalization,Symptomatic,5/13/2020,Healed,6/22/2020,5/15/2020,Healthcare worker  In contact with positive patient
+975,3/6/1937,Non-Intensive care hospitalization,Symptomatic,5/15/2020,Healed,6/6/2020,5/16/2020,Pneumonia
+976,6/28/1940,Non-Intensive care hospitalization,Symptomatic,5/12/2020,Deceased,5/18/2020,5/16/2020,Past pathologies  - Deceased at the hospital -Alzheimer
+977,6/20/1938,Non-Intensive care hospitalization,Asymptomatic,NA,Healed,6/6/2020,5/18/2020,In contact with positive patient
+978,11/14/1934,Non-Intensive care hospitalization,Symptomatic,5/18/2020,Healed,6/19/2020,5/18/2020,Flu symptoms
+979,11/19/1932,Non-Intensive care hospitalization,Symptomatic,5/11/2020,Deceased,6/9/2020,5/18/2020,Flu symptoms - Deceased at the hospital for intestine occlusion
+980,1/5/1946,Non-Intensive care hospitalization,Symptomatic,5/16/2020,Healed,6/4/2020,5/18/2020,Flu symptoms
+981,5/14/1977,Home isolation,Asymptomatic,NA,Healed,6/11/2020,5/20/2020,Tested before being hospitalzed for other pathologies
+982,9/17/2001,Home isolation,Symptomatic,5/21/2020,Healed,6/15/2020,5/23/2020,Flu symptoms
+983,1/1/1956,Home isolation,Asymptomatic,NA,Disease in progress,NA,5/26/2020,In contact with positive patient
+984,9/20/1987,Home isolation,Asymptomatic,NA,Disease in progress,NA,5/26/2020,In contact with positive patient
+985,2/26/1943,Non-Intensive care hospitalization,Asymptomatic,NA,Healed,6/17/2020,5/27/2020,Liver pathologies
+986,7/13/1959,Home isolation,Symptomatic,5/27/2020,Healed,6/16/2020,5/27/2020,Flu symptoms
+987,1/31/1967,Home isolation,Symptomatic,5/27/2020,Healed,6/16/2020,5/27/2020,In contact with positive patient
+988,10/10/1979,Home isolation,Symptomatic,5/27/2020,Healed,6/15/2020,5/27/2020,In contact with positive patient
+989,2/20/1958,Home isolation,Symptomatic,5/27/2020,Healed,6/18/2020,5/27/2020,Flu symptoms
+990,4/30/1969,Home isolation,Symptomatic,5/27/2020,Healed,6/11/2020,5/27/2020,Tested before being hospitalzed for other pathologies
+991,6/22/1946,Non-Intensive care hospitalization,Asymptomatic,NA,Healed,6/15/2020,5/30/2020,Healthcare worker
+992,8/29/1982,Home isolation,Asymptomatic,NA,Healed,6/6/2020,5/30/2020,Healthcare worker
+993,9/17/1967,Home isolation,Asymptomatic,NA,Healed,6/15/2020,6/1/2020,In contact with positive patient
+994,4/1/1943,Non-Intensive care hospitalization,Asymptomatic,NA,Healed,6/22/2020,6/2/2020,Tested before being hospitalzed for other pathologies
+995,6/20/1989,Home isolation,Asymptomatic,NA,Disease in progress,NA,6/3/2020,In contact with positive patient
+996,11/1/1965,Home isolation,Asymptomatic,NA,Healed,6/24/2020,6/4/2020,Healthcare worker
+997,2/18/1934,Non-Intensive care hospitalization,Symptomatic,6/5/2020,Deceased,6/9/2020,6/5/2020,Deceased at the hospital - retirement house Cluster CRA - Pneumonia and other pathologies
+998,12/14/1954,Non-Intensive care hospitalization,Asymptomatic,NA,Healed,6/18/2020,6/8/2020,Tested before being hospitalzed for other pathologies
+999,2/18/1949,Intensive care,Asymptomatic,NA,Healed,6/13/2020,6/8/2020,Tested before being hospitalzed for other pathologies
+1000,3/14/1978,Non-Intensive care hospitalization,Asymptomatic,NA,Healed,6/18/2020,6/8/2020,Tested before being hospitalzed for other pathologies
+1001,12/18/1972,Home isolation,Asymptomatic,NA,Healed,6/30/2020,6/10/2020,Healthcare worker
+1002,4/10/1979,Non-Intensive care hospitalization,Asymptomatic,NA,Healed,6/29/2020,6/10/2020,Tested before being hospitalzed for other pathologies
+1003,11/21/1968,Non-Intensive care hospitalization,Asymptomatic,NA,Disease in progress,NA,6/10/2020,Tested before being hospitalzed for other pathologies
+1004,6/23/1926,Non-Intensive care hospitalization,Symptomatic,6/8/2020,Disease in progress,NA,6/11/2020,Tested before being hospitalzed for other pathologies
+1005,8/28/1939,Non-Intensive care hospitalization,Symptomatic,6/9/2020,Disease in progress,NA,6/11/2020,retirement house - flu symptoms
+1006,12/24/1954,Non-Intensive care hospitalization,Symptomatic,5/15/2020,Healed,6/17/2020,6/13/2020,Persistent cough
+1007,12/11/1942,NA,Asymptomatic,NA,Deceased,NA,6/13/2020,Tested post mortem - other severe pathologies
+1008,12/6/1985,Non-Intensive care hospitalization,Symptomatic,6/17/2020,Disease in progress,NA,6/18/2020,Flu symptoms and other pathologies
+1009,7/20/1966,Home isolation,Symptomatic,6/15/2020,Healed,7/9/2020,6/18/2020,Flu symptoms
+1010,8/14/1947,Home isolation,Asymptomatic,NA,Healed,7/7/2020,6/19/2020,Tested before being hospitalzed for other pathologies
+1011,5/5/1962,Non-Intensive care hospitalization,Asymptomatic,NA,Healed,6/25/2020,6/19/2020,Tested before being hospitalzed for other pathologies
+1012,6/1/1955,Home isolation,Asymptomatic,NA,Disease in progress,NA,6/20/2020,unknown
+1013,9/29/2018,Home isolation,Symptomatic,6/20/2020,Healed,7/10/2020,6/21/2020,Flu symptoms
+1014,5/10/1951,Non-Intensive care hospitalization,Symptomatic,6/21/2020,Disease in progress,NA,6/21/2020,Flu symptoms - heart failure
+1015,6/10/1951,Non-Intensive care hospitalization,Symptomatic,6/21/2020,Healed,7/12/2020,6/21/2020,Flu symptoms - cancer patient
+1016,4/20/2000,Non-Intensive care hospitalization,Asymptomatic,NA,Healed,7/10/2020,6/22/2020,Tested before being hospitalzed for other pathologies
+1017,10/2/1947,Home isolation,Asymptomatic,NA,Disease in progress,NA,6/22/2020,In contact with positive patient
+1018,4/14/1933,Non-Intensive care hospitalization,Asymptomatic,NA,Healed,8/6/2020,6/23/2020,Tested before being hospitalzed for other pathologies
+1019,12/29/1967,Home isolation,Asymptomatic,NA,Healed,7/13/2020,6/25/2020,In contact with positive patient
+1020,8/11/1960,Non-Intensive care hospitalization,Asymptomatic,NA,Disease in progress,NA,6/25/2020,Tested before being hospitalzed for other pathologies
+1021,1/9/1969,Home isolation,Asymptomatic,NA,Disease in progress,NA,6/26/2020,Tested before being hospitalzed for other pathologies
+1022,10/28/1958,Home isolation,Symptomatic,6/26/2020,Disease in progress,NA,6/27/2020,Flu symptoms
+1023,6/16/1972,Home isolation,Symptomatic,6/24/2020,Disease in progress,NA,6/27/2020,Flu symptoms
+1024,1/1/1975,Home isolation,Asymptomatic,NA,Healed,7/13/2020,6/28/2020,In contact with positive patient - Cluster TNT
+1025,11/11/1998,Home isolation,Asymptomatic,NA,Disease in progress,NA,6/28/2020,In contact with positive patient - Cluster TNT
+1026,8/21/2016,Home isolation,Asymptomatic,NA,Disease in progress,NA,6/28/2020,In contact with positive patient - Cluster TNT
+1027,12/5/1938,Non-Intensive care hospitalization,Asymptomatic,NA,Disease in progress,NA,6/30/2020,Tested before the end of the hospitalization
+1028,9/10/1999,Home isolation,Asymptomatic,NA,Disease in progress,NA,6/30/2020,In contact with positive patient
+1029,10/21/2008,Home isolation,Asymptomatic,NA,Disease in progress,NA,6/30/2020,In contact with positive patient
+1030,9/21/1974,Home isolation,Asymptomatic,NA,Disease in progress,NA,6/30/2020,In contact with positive patient
+1031,11/22/1977,Home isolation,Asymptomatic,NA,Healed,7/14/2020,7/4/2020,Retirement house Cluster - Healthcare worker
+1032,9/13/1978,Home isolation,Symptomatic,6/29/2020,Disease in progress,NA,7/6/2020,Returned from Kazakistan on 07/06/2020
+1033,4/18/1994,Home isolation,Asymptomatic,NA,Disease in progress,NA,7/9/2020,In contact with positive patient - Cluster TNT
+1034,12/12/1935,Home isolation,Asymptomatic,NA,Disease in progress,NA,7/9/2020,Retirement house Cluster
+1035,10/15/1996,Home isolation,Symptomatic,7/8/2020,Disease in progress,NA,7/10/2020,Return from Spain - Flu symptoms
+1036,8/24/1965,Home isolation,Asymptomatic,NA,Disease in progress,NA,7/10/2020,In contact with positive patient
+1037,4/24/1955,Home isolation,Symptomatic,7/8/2020,Disease in progress,NA,7/10/2020,Tested at ER for flu symptoms
+1038,3/1/1965,Non-Intensive care hospitalization,Symptomatic,NA,Disease in progress,NA,7/10/2020,In contact with positive patient
+1039,5/14/1978,Home isolation,Asymptomatic,NA,Disease in progress,NA,7/11/2020,In contact with positive patient - Cluster TNT
+1040,4/26/2017,Home isolation,Asymptomatic,NA,Disease in progress,NA,7/11/2020,In contact with positive patient - Cluster TNT
+1041,10/20/2006,Home isolation,Asymptomatic,NA,Disease in progress,NA,7/11/2020,In contact with positive patient - Cluster TNT
+1042,5/17/2002,Home isolation,Asymptomatic,NA,Disease in progress,NA,7/11/2020,In contact with positive patient - Cluster TNT
+1043,2/12/1970,Home isolation,Asymptomatic,NA,Disease in progress,NA,7/11/2020,In contact with positive patient - Cluster TNT
+1044,8/1/1970,Home isolation,Asymptomatic,NA,Disease in progress,NA,7/11/2020,In contact with positive patient - Cluster TNT
+1045,1/24/1994,Home isolation,Asymptomatic,NA,Disease in progress,NA,7/11/2020,In contact with positive patient
+1046,7/31/1982,Home isolation,Asymptomatic,NA,Healed,8/5/2020,7/11/2020,In contact with positive patient
+1047,9/20/2009,Home isolation,Asymptomatic,NA,Disease in progress,NA,7/11/2020,In contact with positive patient
+1048,8/5/2007,Home isolation,Asymptomatic,NA,Disease in progress,NA,7/11/2020,In contact with positive patient - Cluster TNT
+1049,12/5/2014,Home isolation,Asymptomatic,NA,Disease in progress,NA,7/11/2020,In contact with positive patient - Cluster TNT
+1050,9/22/1989,Non-Intensive care hospitalization,Symptomatic,7/7/2020,Disease in progress,NA,7/13/2020,Flu symptoms
+1051,2/4/1968,Home isolation,Symptomatic,7/5/2020,Disease in progress,NA,7/14/2020,Social worker - symptoms since 07/05/2020
+1052,1/28/1993,Home isolation,Asymptomatic,NA,Disease in progress,NA,7/14/2020,In contact with positive patient
+1053,9/19/1969,Home isolation,Symptomatic,7/5/2020,Disease in progress,NA,7/14/2020,In contact with positive patient
+1054,9/30/1973,Home isolation,Symptomatic,7/10/2020,Disease in progress,NA,7/14/2020,In contact with positive patient
+1055,7/21/2017,Home isolation,Asymptomatic,NA,Disease in progress,NA,7/14/2020,In contact with positive patient
+1056,4/28/1990,Home isolation,Asymptomatic,NA,Disease in progress,NA,7/15/2020,In contact with positive patient
+1057,11/14/1962,Home isolation,Asymptomatic,NA,Disease in progress,NA,7/16/2020,In contact with positive patient
+1058,1/11/1992,Home isolation,Asymptomatic,NA,Disease in progress,NA,7/16/2020,In contact with positive patient
+1059,8/22/1999,Home isolation,Asymptomatic,NA,Disease in progress,NA,7/16/2020,In contact with positive patient
+1060,3/29/2011,Home isolation,Asymptomatic,NA,Disease in progress,NA,7/16/2020,In contact with positive patient
+1061,1/1/1980,Home isolation,Asymptomatic,NA,Disease in progress,NA,7/16/2020,In contact with positive patient
+1062,5/25/1996,Home isolation,Asymptomatic,NA,Disease in progress,NA,7/16/2020,In contact with positive patient
+1063,10/22/2000,Home isolation,Asymptomatic,NA,Disease in progress,NA,7/16/2020,In contact with positive patient
+1064,5/23/1976,Home isolation,Asymptomatic,NA,Disease in progress,NA,7/16/2020,In contact with positive patient
+1065,1/1/1975,Home isolation,Asymptomatic,NA,Disease in progress,NA,7/16/2020,In contact with positive patient
+1066,6/26/1979,Non-Intensive care hospitalization,Symptomatic,7/13/2020,Disease in progress,NA,7/16/2020,In contact with positive patient at a funeral
+1067,2/25/1995,Home isolation,Asymptomatic,NA,Disease in progress,NA,7/17/2020,In contact with positive patient
+1068,2/13/2006,Home isolation,Asymptomatic,NA,Disease in progress,NA,7/17/2020,In contact with positive patient - Works at a retirement house - possible new cluster
+1069,12/23/2011,Home isolation,Asymptomatic,NA,Disease in progress,NA,7/17/2020,In contact with positive patient - Works at a retirement house - possible new cluster
+1070,2/8/1979,Home isolation,Symptomatic,7/7/2020,Disease in progress,NA,7/18/2020,In contact with positive patient - Works at a retirement house - possible new cluster
+1071,8/21/1990,Home isolation,Asymptomatic,NA,Disease in progress,NA,7/18/2020,In contact with positive patient - Works at a retirement house - possible new cluster
+1072,1/27/1956,Home isolation,Asymptomatic,NA,Disease in progress,NA,7/18/2020,In contact with positive patient - Works at a retirement house - possible new cluster
+1073,4/26/1982,Home isolation,Asymptomatic,NA,Disease in progress,NA,7/21/2020,In contact with positive patient - Works at a retirement house - possible new cluster
+1074,7/5/2009,Home isolation,Asymptomatic,NA,Disease in progress,NA,7/21/2020,In contact with positive patient
+1075,10/28/2018,Home isolation,Asymptomatic,NA,Disease in progress,NA,7/21/2020,In contact with positive patient
+1076,7/7/2007,Home isolation,Asymptomatic,NA,Disease in progress,NA,7/21/2020,In contact with positive patient
+1077,2/29/1984,Home isolation,Symptomatic,7/17/2020,Disease in progress,NA,7/21/2020,In contact with positive patient
+1078,3/20/1994,Home isolation,Asymptomatic,NA,Disease in progress,NA,7/21/2020,Travelled abroad by plane
+1079,12/14/1975,Non-Intensive care hospitalization,Symptomatic,7/15/2020,Disease in progress,NA,7/22/2020,Foreign patient in contact with a positive patient - participated to a funeral (cluster)
+1080,12/16/1987,Non-Intensive care hospitalization,Symptomatic,7/18/2020,Disease in progress,NA,7/22/2020,Foreign patient in contact with a positive patient - participated to a funeral (cluster)
+1081,5/2/1966,Home isolation,Asymptomatic,NA,Disease in progress,NA,7/23/2020,retirement house
+1082,11/1/1938,Non-Intensive care hospitalization,Symptomatic,7/13/2020,Disease in progress,NA,7/24/2020,Tested before being hospitalzed for other pathologies
+1083,10/6/1998,Non-Intensive care hospitalization,Asymptomatic,NA,Disease in progress,NA,7/24/2020,Tested before being hospitalzed for other pathologies
+1084,9/10/1948,Non-Intensive care hospitalization,Symptomatic,7/27/2020,Disease in progress,NA,7/28/2020,Tested before being hospitalzed for other pathologies
+1085,7/23/1953,Home isolation,Symptomatic,7/10/2020,Disease in progress,NA,7/28/2020,"Showed symptoms on 07/10/2020, the family doctor required the test"
+1086,9/11/1962,Intensive care,Symptomatic,7/26/2020,Disease in progress,NA,7/30/2020,Doctor outside of province - hospitalized for pneumonia - unknown epidemiological link
+1087,2/8/1964,Home isolation,Asymptomatic,NA,Disease in progress,NA,7/31/2020,In contact with positive patient in Belgium - Currently in isolation
+1088,9/15/2016,Home isolation,Asymptomatic,NA,Disease in progress,NA,7/31/2020,In contact with positive patient
+1089,9/15/2016,Home isolation,Asymptomatic,NA,Disease in progress,NA,7/31/2020,In contact with positive patient
+1090,4/6/1966,Home isolation,Asymptomatic,NA,Disease in progress,NA,7/31/2020,Nurse of the hospital - Tested as part of the procedure
+1091,5/20/1997,Non-Intensive care hospitalization,Symptomatic,7/29/2020,Disease in progress,NA,8/1/2020,Tested at the ER - Arrived for flu symptoms and fever
+1092,5/24/1961,Non-Intensive care hospitalization,Symptomatic,7/31/2020,Disease in progress,NA,8/1/2020,Tested at the ER - Arrived for flu symptoms and interstitial pneumonia. Retourned from Ukrain with other nationals currently under investigation
+1093,3/29/1960,Home isolation,Asymptomatic,NA,Disease in progress,NA,8/2/2020,In contact with positive patient - Cluster Retirement house
+1094,6/8/1965,Home isolation,Asymptomatic,NA,Disease in progress,NA,8/2/2020,In contact with positive patient - Cluster Retirement house
+1095,11/5/1978,Home isolation,Asymptomatic,NA,Disease in progress,NA,8/2/2020,Tested at the hospital for other symptoms and found positive
+1096,3/22/1999,Home isolation,Symptomatic,7/29/2020,Disease in progress,NA,8/2/2020,In contact with positive patient outside of the province
+1097,4/25/1999,Home isolation,Symptomatic,8/1/2020,Disease in progress,NA,8/2/2020,In contact with positive patient outside of the province
+1098,5/6/2003,Home isolation,Symptomatic,7/31/2020,Disease in progress,NA,8/3/2020,Daughter of a positive patient
+1099,10/30/1966,Home isolation,Asymptomatic,NA,Disease in progress,NA,8/3/2020,Tested as employer of logistics SPA  - will go into isolation today (haulier) cluster
+1100,8/10/1990,Home isolation,Asymptomatic,NA,Disease in progress,NA,8/3/2020,Tested as employer of logistics SPA  - will go into isolation today (haulier) cluster
+1101,5/9/1963,Home isolation,Asymptomatic,NA,Disease in progress,NA,8/3/2020,Tested as employer of logistics SPA  - will go into isolation today (haulier) cluster
+1102,11/21/2003,Home isolation,Asymptomatic,NA,Disease in progress,NA,8/6/2020,In contact with positive patient - Cluster Beach Tennis outside province
+1103,1/15/1942,Home isolation,Symptomatic,8/6/2020,Disease in progress,NA,8/7/2020,Flu symptoms
+1104,2/23/1999,Home isolation,Symptomatic,8/7/2020,Disease in progress,NA,8/8/2020,In contact with positive patient - Cluster Beach Tennis outside province
+1105,6/12/1978,Home isolation,Asymptomatic,NA,Disease in progress,NA,8/8/2020,In contact with positive patient - Cluster Nigerian hairdresser
+1106,6/12/1986,Home isolation,Asymptomatic,NA,Disease in progress,NA,8/8/2020,In contact with positive patient - Cluster Nigerian hairdresser
