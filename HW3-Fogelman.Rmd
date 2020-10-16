@@ -136,6 +136,7 @@ ggplot(pie_covid_df, aes(x=factor(1), fill=Hospitalization.type))+
     coord_polar("y")
 ```
 <br><br>
+
 ##Salary 
 
 1. Load the data and check the formatting of the variables.
@@ -144,41 +145,38 @@ ggplot(pie_covid_df, aes(x=factor(1), fill=Hospitalization.type))+
 adult <- read.csv("adult.csv", row.names = 1)
 # Check data
 str(adult)
-head(adult)
 ```
-
+<br><br>
 2. Rename the last column (currently called “NA”) containing the dichotomous salary information. Assign the name salary to it.
 ```{r rename salary, include = TRUE}
 adult <- rename(adult, salary = 15)
 head(adult)
 ```
-
+<br><br>
 3. The values in salary have a space in front of them (e.g. " >50K"): remove the space from all values (hint: you can use substring()).
 ```{r remove space, inclue = TRUE}
 adult$salary <- trimws(adult$salary, which = c("left"))
-head(adult$salary)
 ```
-
+<br><br>
 4. Again, in the variable salary, replace “>50K” with the value 1 and “<=50K” with 0. Make sure to format it as a factor with two levels.
 ```{r normalize salary, include = TRUE}
 adult2 <- adult %>% 
   mutate(salary = recode(salary, ">50K" = "1",
                                    "<=50K" = "0"))
 adult2$salary <- as.numeric(adult2$salary)
-head(adult2)
 ```
-
+<br><br>
 5. Use the glm() function to estimate this logistic model. Only specify the arguments formula = salary ~ ., data and family = binomial. Save the result of the estimation in an object called fit.
 
-```{r glm, include = TRUE}
+```{r glm, include = TRUE, warning = FALSE, message = FALSE}
 fit = glm(formula = salary ~ ., data = adult2, family = binomial)
 ```
-
-6. Using the information in fit (hint: you can use the functions coef() and summary() to extract information), create a dataframe collecting:
-  6.1 The names of the variables (names of the rows of the dataframe);
-  6.2 The value of the coefficients (first column);
-  6.3 A logical vector stating which coefficients are positive (second column);
-  6.4 The p-values (third column). .
+<br><br>
+6. Using the information in fit (hint: you can use the functions coef() and summary() to extract information), create a dataframe collecting:<br>
+  6.1 The names of the variables (names of the rows of the dataframe);<br>
+  6.2 The value of the coefficients (first column);<br>
+  6.3 A logical vector stating which coefficients are positive (second column);<br>
+  6.4 The p-values (third column).
 
 ```{r fit dataframe, include = TRUE, warning = FALSE, error = FALSE}
 ##Variable names, column 1 
@@ -196,8 +194,9 @@ df <- df %>%
 ##p-value, column 4 
 df$p.value <- as.data.frame(summary(fit)[["coefficients"]])$'Pr(>|z|)'
 
+head(df)
 ``` 
-
+<br><br>
 7. Subset the dataframe created in the previous question to only show the rows where the p-values are strictly smaller than 0.05. Knowing that (i) the remaining rows are statistically significant and that (ii) positive coefficients contribute to increase the probability of a salary larger than $50,000 (the opposite for negative values), comment on those variables that negatively contribute to salary.
 
 ```{r }
@@ -206,7 +205,18 @@ sigvar <- df %>%
 sigvar
 ```
 
-Variables that contribute negatively to salary include: education 7th-8th ,  marital.status Never-married, occupation Farming-fishing, occupation Handlers-cleaners, occupation Other-service, occupation Priv-house-serv,  relationship Own-child,  native.country Columbia, native.country South 
+<center> __Variables that contribute negatively to salary include: education 7th-8th ,  marital.status Never-married, occupation Farming-fishing, occupation Handlers-cleaners, occupation Other-service, occupation Priv-house-serv,  relationship Own-child,  native.country Columbia, native.country South.__<br><br>
+
+__Based on this analysis, education impacts salary with indivudals having a lower education level (7th-8th grade) having their salary negatively impacted compared to individuals that have higher education levels.__ <br><br>
+
+__Individuals that have never been married have their salary negatively impacted compared to individuals who are currently married or have been married previously and are separated or widowed.__ <br><br>
+
+__Individuals who have occupations that are labor, service or domestic based have their salaries more negatively impacted to individuals who have more technical or professional occupations.__ <br><br>
+
+__Considering family relationships, having children in the household impacts salary more significantly than other family relationships including marriage or having a non-child relative in the household.__ <br><br>
+
+__Those from the countries of Columbia and "South" (could indicate South Korea or South Africa - not indicated in the data set) have their salaries more negatively influenced than individuals with other countries of origin.__ <br><br>
+</center>
 
 ## Bonus 
 
