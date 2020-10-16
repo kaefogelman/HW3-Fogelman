@@ -220,5 +220,74 @@ __Those from the countries of Columbia and "South" (could indicate South Korea o
 
 ## Bonus 
 
+```{r packages bonus, include = TRUE, warning = FALSE, message = FALSE}
+library(leaflet)
+library(htmltools)
+```
 
+```{r data for map, include = TRUE}
+teams <- c("Real Madrid", "FC Barcelona", "Atletico Madrid", 
+           "Atletico Bilbao", "Valencia")
+champions <- c(34, 26, 10, 8, 6)
+city <- c("Madrid", "Barcelona", "Madrid", "Bilbao", "Valencia")
 
+map.df <- cbind(teams, champions, city)
+
+head(map.df)
+```
+
+```{r create map, include = TRUE}
+map <- leaflet() %>% 
+  setView(lng = 0.8891, lat = 41.6488, zoom = 5) %>%
+  addTiles()
+map
+```
+
+```{r popups and circles, include = TRUE}
+content <- paste(sep = "<br/>",
+                 "<b>Real Madrid</b>",
+                 "34", 
+                 "<b>Atletico Madrid</b>",
+                 "10")
+
+content2 <- paste(sep = "<br/>",
+                 "<b>FC Barcelona</b>",
+                 "26")
+
+content3 <- paste(sep = "<br/>",
+                 "<b>Athletic Bilbao</b>",
+                 "8")
+
+content4 <- paste(sep = "<br/>",
+                 "<b>Valencia</b>",
+                 "6")
+
+cities <-  read.csv(textConnection("
+           City, Lat, Long, Pop
+           Madrid, 40.4168, -3.7038, 3400000
+           Barcelona, 41.3851, 2.1734, 2600000
+           Madrid, 40.4168, -3.7038, 1000000
+           Bilbao, 43.2630, -2.9350, 800000
+           Valencia, 39.4699, -0.3763, 600000"))
+
+map <- map %>%
+  leaflet() %>%
+  addTiles() %>%
+  addPopups (-3.7038, 40.4168, content, 
+             options = popupOptions(closeButton = FALSE)) %>%
+  addPopups (-2.1734, 41.3851, content2, 
+             options = popupOptions(closeButton = FALSE)) %>%
+  addPopups (-2.9350, 43.2630, content3, 
+             options = popupOptions(closeButton = FALSE)) %>%
+  addPopups (-0.3763, 39.4699, content4, 
+             options = popupOptions(closeButton = FALSE)) 
+ 
+ 
+  map2 <- map %>%
+    leaflet(cities) %>%
+    addTiles() %>%
+    addCircles (lng = ~Long, lat = ~Lat, weight = 1, 
+              radius = ~sqrt(Pop) * 30, popup = ~City)
+
+  map
+```
