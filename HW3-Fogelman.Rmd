@@ -63,8 +63,11 @@ table1
 4. Using a table object created in the previous question, subset it in order to create the following table: 
 
 ```{r subset table, include = TRUE}
-table2 <- table1[1:2,2,c(2:3)]
+table2 <- table1[1:2, 2, c(2:3)]
 table2
+
+##Gabii's code 
+
 ```
 <br><br>
 5. Order the data based on the date of diagnosis (from first to most recent).
@@ -101,10 +104,10 @@ covid %>%
 ```{r symptom&hospitalization.type, include = TRUE}
 covid %>%
   filter(Symptoms == "Asymptomatic" | Hospitalization.type == "Home isolation"
-         & Date.of.birth > ymd(19820101)) %>%
+         & Date.of.birth < ymd(19820101)) %>%
   count()
 ```
-<center> __353 people born after 1982 are asymptomatic or in home isolation.__ </center> <br><br>
+<center> __273 people born before 1982 are asymptomatic or in home isolation.__ </center> <br><br>
 
 9. Create a new dataset including only the rows where “Epidemiological.link…Notes” includes the words “contact” OR “symptom” (or both). Hint: you can use the grep() function and tolower().
 
@@ -224,7 +227,7 @@ __Those from the countries of Columbia and "South" (could indicate South Korea o
 library(leaflet)
 library(htmltools)
 ```
-
+<br><br>
 ```{r data for map, include = TRUE}
 teams <- c("Real Madrid", "FC Barcelona", "Atletico Madrid", 
            "Atletico Bilbao", "Valencia")
@@ -235,14 +238,15 @@ map.df <- cbind(teams, champions, city)
 
 head(map.df)
 ```
-
-```{r create map, include = TRUE}
+<br><br>
+Create base map 
+```{r create base map, include = TRUE}
 map <- leaflet() %>% 
-  setView(lng = 0.8891, lat = 41.6488, zoom = 5) %>%
+  setView(lng = 0.8891, lat = 41.6488, zoom = 4) %>%
   addTiles()
 map
 ```
-
+<br><br>
 ```{r popups and circles, include = TRUE}
 content <- paste(sep = "<br/>",
                  "<b>Real Madrid</b>",
@@ -262,14 +266,6 @@ content4 <- paste(sep = "<br/>",
                  "<b>Valencia</b>",
                  "6")
 
-cities <-  read.csv(textConnection("
-           City, Lat, Long, Pop
-           Madrid, 40.4168, -3.7038, 3400000
-           Barcelona, 41.3851, 2.1734, 2600000
-           Madrid, 40.4168, -3.7038, 1000000
-           Bilbao, 43.2630, -2.9350, 800000
-           Valencia, 39.4699, -0.3763, 600000"))
-
 map <- map %>%
   leaflet() %>%
   addTiles() %>%
@@ -280,14 +276,17 @@ map <- map %>%
   addPopups (-2.9350, 43.2630, content3, 
              options = popupOptions(closeButton = FALSE)) %>%
   addPopups (-0.3763, 39.4699, content4, 
-             options = popupOptions(closeButton = FALSE)) 
+             options = popupOptions(closeButton = FALSE)) %>%
+  addCircles (lng = -3.7038, lat = 40.4168, weight = 5, 
+              radius = (34000 * 2)) %>%
+  addCircles (lng = -3.7038, lat = 40.4168, weight = 5, 
+              radius = (10000 * 2)) %>%
+  addCircles (lng = -2.1734, lat = 41.3851, weight = 5, 
+              radius = (26000 * 2)) %>%
+  addCircles (lng = -2.9350, lat = 43.2630, weight = 5, 
+              radius = (8000 * 2)) %>%
+  addCircles (lng = -0.3763, lat = 39.4699, weight = 5, 
+              radius = (6000 * 2)) 
  
- 
-  map2 <- map %>%
-    leaflet(cities) %>%
-    addTiles() %>%
-    addCircles (lng = ~Long, lat = ~Lat, weight = 1, 
-              radius = ~sqrt(Pop) * 30, popup = ~City)
-
-  map
+map
 ```

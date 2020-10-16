@@ -263,12 +263,13 @@ table1</code></pre>
 ##   Intensive care                                1           9
 ##   Non-Intensive care hospitalization           17         261</code></pre>
 <p><br><br> 4. Using a table object created in the previous question, subset it in order to create the following table:</p>
-<pre class="r"><code>table2 &lt;- table1[1:2,2,c(2:3)]
+<pre class="r"><code>table2 &lt;- table1[1:2, 2, c(2:3)]
 table2</code></pre>
 <pre><code>##                     Outcome
 ## Hospitalization.type Disease in progress Healed
 ##       Home isolation                  20    379
 ##       Intensive care                   2      9</code></pre>
+<pre class="r"><code>##Gabii's code </code></pre>
 <p><br><br> 5. Order the data based on the date of diagnosis (from first to most recent).</p>
 <pre class="r"><code>covid_diagnosis.date &lt;- arrange(covid, Date.of.diagnosis)
 head(covid_diagnosis.date)</code></pre>
@@ -319,12 +320,12 @@ barplot(counts, main=&quot;Asymptomatic_AND_Home_Isolation&quot;,
 </ol>
 <pre class="r"><code>covid %&gt;%
   filter(Symptoms == &quot;Asymptomatic&quot; | Hospitalization.type == &quot;Home isolation&quot;
-         &amp; Date.of.birth &gt; ymd(19820101)) %&gt;%
+         &amp; Date.of.birth &lt; ymd(19820101)) %&gt;%
   count()</code></pre>
 <pre><code>##     n
-## 1 353</code></pre>
+## 1 563</code></pre>
 <center>
-<strong>353 people born after 1982 are asymptomatic or in home isolation.</strong>
+<strong>273 people born before 1982 are asymptomatic or in home isolation.</strong>
 </center>
 <p><br><br></p>
 <ol start="9" style="list-style-type: decimal">
@@ -514,6 +515,7 @@ sigvar</code></pre>
 <h2>Bonus</h2>
 <pre class="r"><code>library(leaflet)
 library(htmltools)</code></pre>
+<p><br><br></p>
 <pre class="r"><code>teams &lt;- c(&quot;Real Madrid&quot;, &quot;FC Barcelona&quot;, &quot;Atletico Madrid&quot;, 
            &quot;Atletico Bilbao&quot;, &quot;Valencia&quot;)
 champions &lt;- c(34, 26, 10, 8, 6)
@@ -528,12 +530,13 @@ head(map.df)</code></pre>
 ## [3,] &quot;Atletico Madrid&quot; &quot;10&quot;      &quot;Madrid&quot;   
 ## [4,] &quot;Atletico Bilbao&quot; &quot;8&quot;       &quot;Bilbao&quot;   
 ## [5,] &quot;Valencia&quot;        &quot;6&quot;       &quot;Valencia&quot;</code></pre>
+<p><br><br> Create base map</p>
 <pre class="r"><code>map &lt;- leaflet() %&gt;% 
-  setView(lng = 0.8891, lat = 41.6488, zoom = 5) %&gt;%
+  setView(lng = 0.8891, lat = 41.6488, zoom = 4) %&gt;%
   addTiles()
 map</code></pre>
-<div id="htmlwidget-c675102bd7e7160ead5c" style="width:672px;height:480px;" class="leaflet html-widget"></div>
-<script type="application/json" data-for="htmlwidget-c675102bd7e7160ead5c">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"setView":[[41.6488,0.8891],5,[]],"calls":[{"method":"addTiles","args":["//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"http://openstreetmap.org\">OpenStreetMap<\/a> contributors, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA<\/a>"}]}]},"evals":[],"jsHooks":[]}</script>
+<p><div id="htmlwidget-eb5e0020d81c5f2abb55" style="width:672px;height:480px;" class="leaflet html-widget"></div>
+<script type="application/json" data-for="htmlwidget-eb5e0020d81c5f2abb55">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"setView":[[41.6488,0.8891],4,[]],"calls":[{"method":"addTiles","args":["//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"http://openstreetmap.org\">OpenStreetMap<\/a> contributors, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA<\/a>"}]}]},"evals":[],"jsHooks":[]}</script> <br><br></p>
 <pre class="r"><code>content &lt;- paste(sep = &quot;&lt;br/&gt;&quot;,
                  &quot;&lt;b&gt;Real Madrid&lt;/b&gt;&quot;,
                  &quot;34&quot;, 
@@ -562,11 +565,21 @@ map &lt;- map %&gt;%
   addPopups (-2.9350, 43.2630, content3, 
              options = popupOptions(closeButton = FALSE)) %&gt;%
   addPopups (-0.3763, 39.4699, content4, 
-             options = popupOptions(closeButton = FALSE))
-
+             options = popupOptions(closeButton = FALSE)) %&gt;%
+  addCircles (lng = -3.7038, lat = 40.4168, weight = 5, 
+              radius = (34000 * 2)) %&gt;%
+  addCircles (lng = -3.7038, lat = 40.4168, weight = 5, 
+              radius = (10000 * 2)) %&gt;%
+  addCircles (lng = -2.1734, lat = 41.3851, weight = 5, 
+              radius = (26000 * 2)) %&gt;%
+  addCircles (lng = -2.9350, lat = 43.2630, weight = 5, 
+              radius = (8000 * 2)) %&gt;%
+  addCircles (lng = -0.3763, lat = 39.4699, weight = 5, 
+              radius = (6000 * 2)) 
+ 
 map</code></pre>
-<div id="htmlwidget-4aebe912dc3a234d08eb" style="width:672px;height:480px;" class="leaflet html-widget"></div>
-<script type="application/json" data-for="htmlwidget-4aebe912dc3a234d08eb">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"http://openstreetmap.org\">OpenStreetMap<\/a> contributors, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA<\/a>"}]},{"method":"addPopups","args":[40.4168,-3.7038,"<b>Real Madrid<\/b><br/>34<br/><b>Atletico Madrid<\/b><br/>10",null,null,{"maxWidth":300,"minWidth":50,"autoPan":true,"keepInView":false,"closeButton":false,"className":""}]},{"method":"addPopups","args":[41.3851,-2.1734,"<b>FC Barcelona<\/b><br/>26",null,null,{"maxWidth":300,"minWidth":50,"autoPan":true,"keepInView":false,"closeButton":false,"className":""}]},{"method":"addPopups","args":[43.263,-2.935,"<b>Athletic Bilbao<\/b><br/>8",null,null,{"maxWidth":300,"minWidth":50,"autoPan":true,"keepInView":false,"closeButton":false,"className":""}]},{"method":"addPopups","args":[39.4699,-0.3763,"<b>Valencia<\/b><br/>6",null,null,{"maxWidth":300,"minWidth":50,"autoPan":true,"keepInView":false,"closeButton":false,"className":""}]}],"limits":{"lat":[39.4699,43.263],"lng":[-3.7038,-0.3763]}},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-d76e34fe49a24556cccb" style="width:672px;height:480px;" class="leaflet html-widget"></div>
+<script type="application/json" data-for="htmlwidget-d76e34fe49a24556cccb">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"http://openstreetmap.org\">OpenStreetMap<\/a> contributors, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA<\/a>"}]},{"method":"addPopups","args":[40.4168,-3.7038,"<b>Real Madrid<\/b><br/>34<br/><b>Atletico Madrid<\/b><br/>10",null,null,{"maxWidth":300,"minWidth":50,"autoPan":true,"keepInView":false,"closeButton":false,"className":""}]},{"method":"addPopups","args":[41.3851,-2.1734,"<b>FC Barcelona<\/b><br/>26",null,null,{"maxWidth":300,"minWidth":50,"autoPan":true,"keepInView":false,"closeButton":false,"className":""}]},{"method":"addPopups","args":[43.263,-2.935,"<b>Athletic Bilbao<\/b><br/>8",null,null,{"maxWidth":300,"minWidth":50,"autoPan":true,"keepInView":false,"closeButton":false,"className":""}]},{"method":"addPopups","args":[39.4699,-0.3763,"<b>Valencia<\/b><br/>6",null,null,{"maxWidth":300,"minWidth":50,"autoPan":true,"keepInView":false,"closeButton":false,"className":""}]},{"method":"addCircles","args":[40.4168,-3.7038,68000,null,null,{"interactive":true,"className":"","stroke":true,"color":"#03F","weight":5,"opacity":0.5,"fill":true,"fillColor":"#03F","fillOpacity":0.2},null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null,null]},{"method":"addCircles","args":[40.4168,-3.7038,20000,null,null,{"interactive":true,"className":"","stroke":true,"color":"#03F","weight":5,"opacity":0.5,"fill":true,"fillColor":"#03F","fillOpacity":0.2},null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null,null]},{"method":"addCircles","args":[41.3851,-2.1734,52000,null,null,{"interactive":true,"className":"","stroke":true,"color":"#03F","weight":5,"opacity":0.5,"fill":true,"fillColor":"#03F","fillOpacity":0.2},null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null,null]},{"method":"addCircles","args":[43.263,-2.935,16000,null,null,{"interactive":true,"className":"","stroke":true,"color":"#03F","weight":5,"opacity":0.5,"fill":true,"fillColor":"#03F","fillOpacity":0.2},null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null,null]},{"method":"addCircles","args":[39.4699,-0.3763,12000,null,null,{"interactive":true,"className":"","stroke":true,"color":"#03F","weight":5,"opacity":0.5,"fill":true,"fillColor":"#03F","fillOpacity":0.2},null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null,null]}],"limits":{"lat":[39.4699,43.263],"lng":[-3.7038,-0.3763]}},"evals":[],"jsHooks":[]}</script>
 </div>
 
 
